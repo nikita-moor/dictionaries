@@ -9,12 +9,12 @@ title: Documentation
 
 [GoldenDict Mobile](http://goldendict.mobi/) does not support XDXF, so cannot be used for our dictionaries. Users of mobile devices could try [Alpus](https://alpusapp.com/index.html) (Android, iOS).
 
-In order to use XDXF with other applications, it should be converted into another format, e.g. StarDict. Take a look at [pyglossary](https://github.com/ilius/pyglossary), [makedict](https://github.com/soshial/xdxf_makedict), or similar software.
+In order to use XDXF with other applications, it could be converted into another format, e.g. StarDict. Take a look at [pyglossary](https://github.com/ilius/pyglossary), [makedict](https://github.com/soshial/xdxf_makedict), or similar software.
 
 
 # GoldenDict setting up
 
-For adding dictionary to GoldenDict see article ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}). It gives enough information for starting using dictionary, but looking for a word you should always type in its normal form, such as "amo" for "amavistis".
+For adding dictionary to GoldenDict see article ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}). It gives enough information for starting using dictionary, but looking for a word you will need to type in its normal form, such as "amo" for "amavistis".
 
 To manage this problem GoldenDict offers automatic words normalization based on Hunspell library. It is not a real lemmatizer, but in most cases suggestions are correct and it greatly simplifies using of the dictionary. See article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) explaining how to setup morphology normalization.
 

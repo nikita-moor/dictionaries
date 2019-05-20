@@ -1,0 +1,15 @@
+{% if include.id %}
+  {% assign id = include.id %}
+{% else %}
+  {% assign id = 1 %}
+{% endif %}
+
+<div class="img-viewer">
+  <input type="checkbox" id="img-viewer-{{ id }}"/>
+  <label for="img-viewer-{{ id }}">
+    <img src="{{ include.img }}" class="img-viewer-full"
+         width="{{ include.w }}" height="{{ include.h }}"/>
+    <img src="{{ include.img }}" height="200px" alt="preview"/>
+  </label>
+</div>
+
