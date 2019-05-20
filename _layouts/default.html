@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    {% feed_meta %}
+    {% seo %}
+    <!-- <link rel="shortcut icon" href="/assets/img/favicon.ico" /> -->
+    <title>{{ page.title }} – {{ site.title }}</title>
+    <link href="{{ site.baseurl }}/assets/css/fonts.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="layout">
+      <div class="sidebar">
+        <a href="{{ site.baseurl }}/">
+          <!-- <img src="/assets/img/logo-book.png" height="95px" width="225px" /> -->
+          <img src="{{ site.baseurl }}/assets/img/logo-book.png" height="76px" width="180px" />
+        </a>
+        <h1>{{ site.title }}</h1>
+        <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
+        <h1>Navigation</h1>
+        <div>
+        <ul class="sidebar-toc">
+        {% for item in site.data.toc %}
+          <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% if item.submenu %}
+          <ul class="sidebar-toc">
+          {% for subitem in item.submenu %}
+            <li><a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.title }}</a>
+          {% endfor %}
+          </ul>
+          {% endif %}
+          </li>
+        {% endfor %}
+        <ul/>
+        </div>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+      <div class="footer">
+        <p>© {{ site.author }} - Powered by Jekyll.</p>
+      </div>
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,34 @@
+title: Latin dictionaries
+author: Nikita Murzintcev
+repository: nikita-moor/latin-dictionary
+url: https://nikita-moor.github.io
+baseurl: /latin-dictionary-site
+
+collections:
+  dictionaries:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "dictionaries"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+paginate: 10
+
