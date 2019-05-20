@@ -3,6 +3,7 @@ title: "Lexicon Latinum"
 author: "Wagner"
 year: 1878
 tags: [Latin, French]
+comment: suspended
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

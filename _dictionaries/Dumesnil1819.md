@@ -3,6 +3,7 @@ title: "Latin synonyms"
 author: Dumesnil
 year: 1819
 tags: [Latin, English]
+comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

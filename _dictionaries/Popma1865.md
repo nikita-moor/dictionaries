@@ -3,6 +3,7 @@ title: "De differentiis verborum"
 author: Popma
 year: 1865
 tags: [Latin]
+comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

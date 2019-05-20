@@ -3,6 +3,7 @@ title: "Dictionary of Latin synonymes"
 author: Ramshorn
 year: 1860
 tags: [Latin, English]
+comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

@@ -3,6 +3,7 @@ title: A Copious and Critical English-Latin Dictionary
 author: Smith & Hall
 year: 1871
 tags: [English, Latin]
+comment: abandoned
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
