@@ -9,6 +9,8 @@
       url: /docs/howto.html
     - title: Hunspell
       url: /docs/hunspell.html
+    - title: Custom styles
+      url: /docs/styles.html
 - title: About
   url: /about.html
 - title: Subscribe RSS
