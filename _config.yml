@@ -1,8 +1,8 @@
 title: Latin dictionaries
 author: Nikita Murzintcev
-repository: nikita-moor/latin-dictionary
+repository: nikita-moor/dictionaries
 url: https://nikita-moor.github.io
-baseurl: /latin-dictionary-site
+baseurl: /dictionaries
 
 collections:
   dictionaries:
