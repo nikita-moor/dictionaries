@@ -1,8 +1,9 @@
 ---
-title: "Latin synonyms"
+title: Latin synonyms
 author: Dumesnil
 year: 1819
 tags: [Latin, English]
+nickname: Dumesnil1819
 comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
@@ -11,13 +12,13 @@ Full title is "Latin synonyms, with their different significations, and examples
 
 Dictionary of **Latin** synonyms with explanations on **English**. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
-For download see [Release][1] section.
+For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-{% include img-preview.html img="img/Dumesnil1819-1.png" w="466" h="729" id="1" %}
-{% include img-preview.html img="img/Dumesnil1819-2.png" w="466" h="729" id="2" %}
+{% include img-preview.html img="img/Dumesnil1819-1.png" id="1" %}
+{% include img-preview.html img="img/Dumesnil1819-2.png" id="2" %}
 
 
 ## Sources
@@ -30,12 +31,12 @@ Originally, this dictionary was made from the 2nd English edition, now is being 
 
 ## Usage guidelines
 
-[Custom styles][3] makes it possible to easily see page images, so are strongly recommended to the users of GoldenDict.
+[Custom styles][103] make it possible to easily see scans of the pages, otherwise double-click on the preview to open full image.
 
 
 ## States and limitations
 
-Original headwords will be replaced with lemmas harmonized with [Hunspell dicitonary][2].
+Original headwords will be replaced with lemmas harmonized with [Hunspell dicitonary][102].
 
 
 ## License
@@ -55,6 +56,6 @@ Original headwords will be replaced with lemmas harmonized with [Hunspell dicito
 * [ ] ~~transcribe full text~~ (WIP 3%)
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/
-[2]: {{ site.baseurl }}{% link docs/hunspell.md %}
-[3]: {{ site.baseurl }}{% link docs/styles.md %}
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+{% include dicitonary_ref.md %}
+

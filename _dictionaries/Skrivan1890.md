@@ -3,28 +3,25 @@ title: Latinská synonymika pro školu i dům
 author: Skřivan
 year: 1890
 tags: [Latin, Czech]
+nickname: Skrivan1890
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 This dictionary of **Latin** synonyms is a compilation of well-known dictionaries (see [author's preface][1]) translated into **Czech** language. Explanations are clear, compact, and accompanied with good examples; often author states antonyms which is rare in such dictionaries.
 
-For download see [Release][2] section.
+For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-[![screenshot-3-small](https://user-images.githubusercontent.com/13879891/57780792-a4976980-7731-11e9-8364-11acd5e58fb9.png)](https://user-images.githubusercontent.com/13879891/57780791-a4976980-7731-11e9-8119-2fb606b41081.png) [![screenshot-4-small](https://user-images.githubusercontent.com/13879891/57780796-a5300000-7731-11e9-9c66-25a7825b1690.png)](https://user-images.githubusercontent.com/13879891/57780794-a4976980-7731-11e9-980c-94e2460a1054.png)
+{% include img-preview.html img="img/Skrivan1890-1.png" id="1" %}
+{% include img-preview.html img="img/Skrivan1890-2.png" id="2" %}
 
 
 ## Sources
 
 1. Skřivan, A. _Latinská synonymika pro školu i dům._ Chrudim, 1890. URL: <https://archive.org/details/SkivanLatinskSynonymika> \[Accessed 8 April 2019\].
 1. Blog of [Iohannes Brunensis][3].
-
-
-## Usage guidelines
-
-We recommend using [article-style.css][4] for GoldenDict, which is optional for this dicionary but provides improved appearance. See application's [FAQ][3] for setting up.
 
 
 ## Errata
@@ -51,12 +48,11 @@ Text of the following aticles was altered:
 
 ## ToDo
 
-Several small problems are needed to be fixed, [see issue][5].
+* [ ] several small problems to be fixed, [see issue][2].
 
 
-[1]: http://www.archive.org/stream/SkivanLatinskSynonymika#page/n2
-[2]: https://github.com/nikita-moor/latin-dictionary/releases
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[2]: https://github.com/nikita-moor/latin-dictionary/issues/1
 [3]: http://www.litteraelatinae.eu/?p=606
-[4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
-[5]: https://github.com/nikita-moor/latin-dictionary/issues/1
+{% include dicitonary_ref.md %}
 

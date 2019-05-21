@@ -3,22 +3,22 @@ title: "De differentiis verborum"
 author: Popma
 year: 1865
 tags: [Latin]
+nickname: Popma1865
 comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms with explanations on **Latin**, in XDXF format.
+Dictionary of **Latin** synonyms with explanations on **Latin**. XDXF version contains keys and scans of the corresponding pages.
 
-**Early development version.** For download see [Release][3] section.
-
-XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release and replace `dict.xdxf` with the file from this repository.
+**Early developer version.** For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-[![screenshot](https://user-images.githubusercontent.com/13879891/56867170-ef537a80-69ea-11e9-9e3e-9ef37277eb2e.png)](https://user-images.githubusercontent.com/13879891/56866527-e363ba80-69e2-11e9-9a65-1f906d3281dd.png) [![scan](https://user-images.githubusercontent.com/13879891/56866696-0b541d80-69e5-11e9-890c-bc63393d294d.png)](http://www.archive.org/stream/bub_gb_KAPvVIaT-ZEC#page/n217/mode/1up)
+{% include img-preview.html img="img/Popma1865-1.png" id="1" %}
+{% include img-preview.html img="img/Popma1865-2.png" id="2" %}
 
 
 ## Sources
@@ -28,12 +28,12 @@ XDXF version contains keys and scans of the corresponding pages. Scanned images 
 
 ## Usage guidelines
 
-Custom styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
+[Custom styles][103] make it possible to easily see scans of the pages, otherwise double-click on the preview to open full image.
 
 
 ## States and limitations
 
-It is an early development version. Index of keywords does contain multiple errors and missing lines, currenty undergoes examination.
+It is an early developer version. Index of keywords may contain errors or missing lines, currenty undergoes examination.
 
 
 ## License
@@ -47,12 +47,10 @@ It is an early development version. Index of keywords does contain multiple erro
 ## ToDo
 
 * [x] fix OCR errors in the articles' keys (first proofread round)
-* [ ] fix OCR errors in the articles' keys (second proofread round)
+* [ ] check index for missing keys (second proofread round)
 * [ ] add lemmas
-* [ ] ~~transcribe full text~~
 
 
-[1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
-[2]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
-[3]: https://github.com/nikita-moor/latin-dictionary/releases
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+{% include dicitonary_ref.md %}
 

@@ -1,20 +1,21 @@
 ---
-title: "Döderlein's Hand-book of Latin Synonymes"
+title: Döderlein's Hand-book of Latin Synonymes
 author: Döderlein
 year: 1875
 tags: [Latin, English]
+nickname: Doederlein1874
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 Dictionary of **Latin** synonyms with explanations on **English**.
 
-For download see [Release][1] section.
+For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-{% include img-preview.html img="img/Doederlein1874-1.png" w="474" h="533" id="1" %}
-{% include img-preview.html img="img/Doederlein1874-2.png" w="474" h="533" id="2" %}
+{% include img-preview.html img="img/Doederlein1874-1.png" id="1" %}
+{% include img-preview.html img="img/Doederlein1874-2.png" id="2" %}
 
 
 ## Sources
@@ -27,11 +28,11 @@ This dictionary bases on the English edition of "Döderlein's Hand-book of Latin
 
 ## States and limitations
 
-Original headwords were replaced with lemmas harmonized with [Hunspell dicitonary][2].
+Original headwords were replaced with lemmas harmonized with [Hunspell dicitonary][102].
 
 Greek keys are added as stub article "For αβγ see abc". It is not very convenient, but prevents bloating of the keywords lists (i.e. visual design problem). I am not competent in Greek language, so all Greek keys are left without normalization or any change, and preserve their form as is in the text.
 
-Three non-lexical articles were included to represent information about the dictionary: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, and DOEDERLEIN_PREFACE.
+Three non-lexical articles were added to represent information about the dictionary: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, and DOEDERLEIN_PREFACE.
 
 
 ## Errata
@@ -54,6 +55,6 @@ Small changes in formatting (such as change of font from bold to italic) were ma
 </a>
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/
-[2]: {{ site.baseurl }}{% link docs/hunspell.md %}
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+{% include dicitonary_ref.md %}
 

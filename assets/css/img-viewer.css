@@ -3,9 +3,7 @@
     margin-top: 15px;
 }
 
-.img-viewer input {
-    display: none;
-}
+.img-viewer input { display: none; }
 
 .img-viewer-full {
     display: none;
@@ -16,7 +14,12 @@
     z-index: 999;
 }
 
-.img-viewer input:checked + label > img { display: block; }
-.img-viewer img { box-shadow: 0 0 6px rgba(132, 132, 132, .75); }
+.img-viewer input:checked + label > div { display: block; }
+
+.img-viewer img {
+    max-height: 900px;
+    box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+}
+
 .img-viewer img:hover { cursor: pointer; }
 

@@ -3,19 +3,21 @@ title: "The synonymes of the Latin language"
 author: "John Hill"
 year: 1804
 tags: [Latin, English]
+nickname: HillJohn1804
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 Full title is "The synonymes of the Latin language, alphabetically arranged; with critical dissertations upon the force of its prepositions, both in a simple and a compounded state".
 
-In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are very extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
+In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
-XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. I do not plan to transcribe it. [Download](https://github.com/nikita-moor/latin-dictionary/releases/tag/HillJohn1804-1).
+XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-[![screenshot-jurgium](https://user-images.githubusercontent.com/13879891/55731573-243f6380-5a23-11e9-8120-57f0f389b7f5.png)](https://user-images.githubusercontent.com/13879891/55731557-1c7fbf00-5a23-11e9-8df0-0d62556ff1e4.png) [![pdf-bw](https://user-images.githubusercontent.com/13879891/55731572-243f6380-5a23-11e9-8076-121baf1e5e8a.png)](https://user-images.githubusercontent.com/13879891/55731556-1be72880-5a23-11e9-8c9d-b253ffee3371.png)
+{% include img-preview.html img="img/HillJohn1804-1.png" id="1" %}
+{% include img-preview.html img="img/HillJohn1804-2.png" id="2" %}
 
 
 ## Source
@@ -25,9 +27,7 @@ XDXF edition contains only keys and links to the scans of the corresponding page
 
 ## Usage guidelines
 
-Keywords were harmonized with hunspell's [dictionaries for Latin language][1] (ed. by Karl Zeiler & Jean-Pierre Sutto). Version by [Konrad Kokoszkiewicz][2] should be compatible as well.
-
-We recommend using [article-style.css][4] for GoldenDict, which is absolutely optional but provides improved appearance. See application's [FAQ][3] for setting up.
+Original headwords were replaced with lemmas harmonized with [Hunspell dicitonary][102].
 
 
 ## License
@@ -38,12 +38,6 @@ We recommend using [article-style.css][4] for GoldenDict, which is absolutely op
 </a>
 
 
-## ToDo
-
-Only small fixes are expected.
-
-[1]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries
-[2]: http://www.obta.uw.edu.pl/~draco/
-[3]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
-[4]: https://github.com/nikita-moor/latin-dictionary/tree/master/utils/article-style.css
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+{% include dicitonary_ref.md %}
 

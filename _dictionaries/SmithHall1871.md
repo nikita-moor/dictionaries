@@ -3,24 +3,26 @@ title: A Copious and Critical English-Latin Dictionary
 author: Smith & Hall
 year: 1871
 tags: [English, Latin]
+nickname: SmithHall1871
 comment: abandoned
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-**English-Latin** dictionary. _Draft version._
+**English-Latin** dictionary. Current state of the transcript (2019-05-21) does not allow to detect dictionary structure correctly, so in many cases formatting is incorrect. I am not going to fix it until the transcript be finished.
 
-Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][1]. As of the current date (2019-03-11) it may be more correct.
+Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][2] and should be recommended to all users.
+
+To the date, this XDXF version is the only known offline edition, so it could be used taking into consideration afore-referenced defects.
+
+For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-[![screenshot](https://user-images.githubusercontent.com/13879891/54139965-b445b980-4433-11e9-85a7-b543f46bc2b1.png)](https://user-images.githubusercontent.com/13879891/54139972-b60f7d00-4433-11e9-9ca9-3bfb99f447e2.png)
+{% include img-preview.html img="img/SmithHall1871-1.png" %}
 
 
 ## Sources
-
-This dictionary is a digital reproduction (XDXF format) of the original book of 
-Smith & Hall (1871) and bases on the next publications:
 
 1. Smith, W.; Hall, T. D. _A copious and critical English-Latin dictionary._ Harper & brothers, 1871. URL: <https://archive.org/details/copiouscriticale00smit> \[Accessed 11 March 2019\].
 1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5775aeccac0c7> \[Accessed 11 March 2019\].
@@ -34,8 +36,7 @@ Smith & Hall (1871) and bases on the next publications:
 </a>
 
 
-## Work plans
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[2]: https://www.latinitium.com/smithhall
+{% include dicitonary_ref.md %}
 
-The ongoing transcribe project is far from completeness, so the text still contains OCR errors and lack of formatting. I do not plan to make improvements to my XDXF version till significant progress of proofreading.
-
-[1]: https://www.latinitium.com/smithhall

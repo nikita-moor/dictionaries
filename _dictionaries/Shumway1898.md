@@ -1,21 +1,23 @@
 ---
-title: "A Hand-Book of Latin Synonymes"
+title: A Hand-Book of Latin Synonymes
 author: Shumway
 year: 1898
 tags: [English, Latin]
+nickname: Shumway1898
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 Full title is "A Hand-Book of Latin Synonymes: Based on Meissner's Kurzgefasste Lateinische Synonymik".
 
-This dictionary is made in aid of translation from **English** to **Latin** and it explains correct choice among different **Latin** synonyms. Added keys make it possible to use this dictionary in both directions: English-Latin and Latin-English. Total number of articles is 210, or 70 pages in printed form.
+This dictionary is made in aid of translation from **English** to **Latin** and it explains correct choice among different **Latin** synonyms. Added keys make it possible to use this dictionary in both directions: English-Latin and Latin-English. Total number of articles is 210, or 70 pages in printed form. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
-XDXF edition contains keys and images of the corresponding pages. Scans (folder 'res') are distributed with release version only; using file `dict.xdxf` from this repository, you will see placeholders in place of pages. For download see [Release][3] section.
+For download see [Release][101] section; for developer version and source files see [github repository][1].
 
 
 ## Exemplum
 
-[![screenshot](https://user-images.githubusercontent.com/13879891/56865955-95e44f00-69dc-11e9-9c29-bf68087242c7.png)](https://user-images.githubusercontent.com/13879891/56865954-954bb880-69dc-11e9-985e-720f5714b165.png) [![scan_preview](https://user-images.githubusercontent.com/13879891/55296884-38ce9b00-5428-11e9-8892-bcbaeb85d3d8.png)](https://user-images.githubusercontent.com/13879891/55296885-38ce9b00-5428-11e9-95f0-5dbe62dcd19c.png)
+{% include img-preview.html img="img/Shumway1898-1.png" id="1" %}
+{% include img-preview.html img="img/Shumway1898-2.png" id="2" %}
 
 
 ## Source
@@ -25,7 +27,7 @@ XDXF edition contains keys and images of the corresponding pages. Scans (folder 
 
 ## Usage guidelines
 
-Custom styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
+[Custom styles][103] make it possible to easily see scans of the pages, otherwise double-click on the preview to open full image.
 
 
 ## License
@@ -38,9 +40,9 @@ Custom styles [article-style.css][2] are optional but strongly recommended to th
 
 ## ToDo
 
-The main work is finished, only small fixes are expected if OCR errors be found. Latin keys should be lemmatized, but I postpone this task to the distant future in hope someone makes full transcript.
+* [ ] add lemmas
 
-[1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
-[2]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
-[3]: https://github.com/nikita-moor/latin-dictionary/releases
+
+[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+{% include dicitonary_ref.md %}
 
