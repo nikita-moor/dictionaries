@@ -2,12 +2,16 @@
 layout: default
 title: Home
 ---
+
 {% include_relative /welcome.html %}
 
 <h1>News</h1>
-<ul class="posts">
+
+<ul>
   {% for post in paginator.posts %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date: "%Y-%m-%d" }}</span></i></li>
+  <li>
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &raquo; <i>{{ post.date | date: "%Y-%m-%d" }}</i>
+  </li>
   {% endfor %}
 </ul>
 
