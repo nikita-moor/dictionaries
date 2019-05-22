@@ -16,7 +16,7 @@ Hunspell by itself needs a dictionary. To the date we could choose between two v
 1. Dictionary by [Karl Zeiler and Jean-Pierre Sutto][1]
 1. Dictionary by [Konrad Kokoszkiewicz][2] (at the very bottom of the page)
 
-The first dicitonary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Both dictionaries are indifferent to the spelling:
+The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Both dictionaries are indifferent to the spelling:
 
 > such spellings as "uua", "uva", "vua" and "vva" are all accepted.
 
@@ -25,7 +25,7 @@ Each dictionary would work fine with GoldenDict. Additionally, they could be use
 
 # Installing Hunspell dictionaries
 
-**Note:** Users of Linux could install Hunspell dictionaries as ordinal applications (see Software Center of something alike). For example Arch Linux provides a package with dictionary created by Karl Zeiler and Jean-Pierre Sutto. Then follow the step 3 in the list below, or start from beginning if your distributive has no Hunspell dictionary for Latin language.
+**Note:** Users of Linux could install Hunspell dictionaries as ordinary applications (see Software Center of something alike). For example Arch Linux provides a package with dictionary created by Karl Zeiler and Jean-Pierre Sutto. Then follow the step 3 in the list below, or start from beginning if your distributive has no Hunspell dictionary for Latin language.
 
 Procedure is simple:
 
