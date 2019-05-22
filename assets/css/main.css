@@ -146,3 +146,15 @@ ul.pagination .active a {
   color: grey;
 }
 
+/*
+ * other styles
+ */
+
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
