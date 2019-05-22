@@ -7,9 +7,7 @@ title: Documentation
 
 [GoldenDict](http://goldendict.org/) is a free desktop computer dictionary shell. It works on Windows, Linux, and MacOS, and supports great variety of file formats. To the date it is the most functional application for work with dictionaries.
 
-[GoldenDict Mobile](http://goldendict.mobi/) does not support XDXF, so cannot be used for our dictionaries. Users of mobile devices could try [Alpus](https://alpusapp.com/index.html) (Android, iOS).
-
-XDXF could be converted into other formats, e.g. StarDict, to be compatible with more applications. Take a look at [pyglossary](https://github.com/ilius/pyglossary), [makedict](https://github.com/soshial/xdxf_makedict), or similar software.
+Users of mobile devices could try [Aard2](http://aarddict.org/). Its import tool [xdxf2slob](https://github.com/itkach/xdxf2slob/) correctly recognizes XDXF format. Additional formats for other applications could be produced, but it completely depends on the users requests. Please, [join the discussion](https://github.com/nikita-moor/latin-dictionary/issues/2) or [contact me]({{ site.baseurl }}{% link about.md %}) directly.
 
 
 # GoldenDict setting up
