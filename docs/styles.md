@@ -14,11 +14,11 @@ Original (left) and custom (right) styles:
 {% include img-preview.html img="img/styles-1.png" id="1" %}
 {% include img-preview.html img="img/styles-2.png" id="2" %}
 
-Many dictionaries are made of page images. Special styles add feature to show full image on click on the preview. If you do not use custom styles, you will need to double click on the preview, then the full image will be opened in external image viewer.
+Some dictionaries are made of page images. Special styles add feature to show full image on click on the preview. If you do not use custom styles, you will need to double click on the preview, then the full image will be opened in external image viewer.
 
 {% include img-preview.html img="img/styles-3.png" id="3" %}
 
-Maximum size of the image is chosen so the image is as small as possible to read the text. You could change this value on own preference, see parameter `height`:
+You may want to change the maximum size of the image, adjust `height` parameter to your needs:
 
 ```css
 .nikita-moor-image {
@@ -40,7 +40,7 @@ File "article-style.css" is included into every release, and could be [downloade
 * Linux: `~/.goldendict`
 * Windows: `%APPDATA%\GoldenDict`
 
-Simply copy-past this path into the address bar of your file browser, press Enter, and save styles there. If you already have your own styles redefinition, then add new content to the end of the file. Read [GoldenDict's wiki][2] for additional information.
+Copy-past this path into the address bar of your file browser, press Enter, and save file there. If you already have your own styles definition, then add new content to the end of the file. Read [GoldenDict's wiki][2] for additional information.
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
