@@ -18,7 +18,7 @@ Some dictionaries are made of page images. Special styles add feature to show fu
 
 {% include img-preview.html img="img/styles-3.png" id="3" %}
 
-You may want to change the maximum size of the image, adjust `height` parameter to your needs:
+You may want to change the maximum size of the image. For that purpose tune parameter "height":
 
 ```css
 .nikita-moor-image {
