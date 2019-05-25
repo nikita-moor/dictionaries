@@ -29,7 +29,7 @@ For download see [Release][101] section; development version and source files ar
 
 ## Usage guidelines
 
-XDXF edition has embedded functionality for hiding citations (see exempla above) which requires using of [custom styles][2] different (**sic!**) from [general styles][103] recommended for our dictionaries (they could be concatenated though).
+XDXF edition has embedded functionality for hiding citations (see exempla above) which requires using [special styles][2] different (**sic!**) from [custom styles][103] recommended for our dictionaries (they could be concatenated though).
 
 
 ## States and limitations
