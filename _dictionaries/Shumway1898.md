@@ -11,7 +11,7 @@ Full title is "A Hand-Book of Latin Synonymes: Based on Meissner's Kurzgefasste 
 
 This dictionary is made in aid of translation from **English** to **Latin** and it explains correct choice among different **Latin** synonyms. Added keys make it possible to use this dictionary in both directions: English-Latin and Latin-English. Total number of articles is 210, or 70 pages in printed form. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

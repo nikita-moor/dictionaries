@@ -12,7 +12,7 @@ Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis I
 
 Dictionary of **Latin** synonyms with explanations on **Latin**. XDXF version contains keys and scans of the corresponding pages.
 
-**Early developer version.** For download see [Release][101] section; for developer version and source files see [github repository][1].
+**Early developer version.** For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

@@ -12,7 +12,7 @@ This phraseological dictionary of **Latin** language contains translation of wor
 
 **Early developer version**; part 1/18 — words from A to ANGUSTUS. Personally I am not interested in this dictionary, so future development is not expected to be active.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

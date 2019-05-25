@@ -12,9 +12,9 @@ comment: abandoned
 
 Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][2] and should be recommended to all users.
 
-To the date, this XDXF version is the only known offline edition, so it could be used taking into consideration afore-referenced defects.
+To the date, this XDXF version is the only known offline edition, so use still could find you useful, even taking into consideration afore-referenced weaknesses.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

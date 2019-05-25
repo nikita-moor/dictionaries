@@ -11,7 +11,7 @@ Full title is "The synonymes of the Latin language, alphabetically arranged; wit
 
 In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
-XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. For download see [Release][101] section; for developer version and source files see [github repository][1].
+XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

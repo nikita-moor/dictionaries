@@ -12,7 +12,7 @@ Full title is "Latin synonyms, with their different significations, and examples
 
 Dictionary of **Latin** synonyms with explanations on **English**. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

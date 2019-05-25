@@ -9,7 +9,7 @@ nickname: Skrivan1890
 
 This dictionary of **Latin** synonyms is a compilation of well-known dictionaries (see [author's preface][1]) translated into **Czech** language. Explanations are clear, compact, and accompanied with good examples; often author states antonyms which is rare in such dictionaries.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum

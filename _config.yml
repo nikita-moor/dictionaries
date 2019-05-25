@@ -3,6 +3,7 @@ author: Nikita Murzintcev
 repository: nikita-moor/dictionaries
 url: https://nikita-moor.github.io
 baseurl: /dictionaries
+google_analytics: UA-140847555-1
 
 collections:
   dictionaries:

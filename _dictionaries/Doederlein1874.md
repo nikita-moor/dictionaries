@@ -9,7 +9,7 @@ nickname: Doederlein1874
 
 Dictionary of **Latin** synonyms with explanations on **English**.
 
-For download see [Release][101] section; for developer version and source files see [github repository][1].
+For download see [Release][101] section; development version and source files are in the [github repository][1].
 
 
 ## Exemplum
