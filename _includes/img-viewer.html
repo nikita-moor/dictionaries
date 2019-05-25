@@ -7,7 +7,11 @@
 <div class="img-viewer">
   <input type="checkbox" id="img-viewer-{{ id }}"/>
   <label for="img-viewer-{{ id }}">
-    <div class="img-viewer-full"><img src="{{ include.img }}"/></div>
+    <div class="img-viewer-full">
+      <div>
+        <img src="{{ include.img }}"/>
+      </div>
+    </div>
     <img src="{{ include.img }}" height="200px" alt="preview"/>
   </label>
 </div>

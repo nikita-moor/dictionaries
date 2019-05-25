@@ -37,7 +37,7 @@ Procedure is simple:
 1. Press OK. Try typing an incorrect word, you should see the list of spelling suggestions (see image).
 1. If not, open settings (Edit > Dictionaries), and on the tab Groups add "Latin Morphology" to the group.
 
-{% include img-preview.html img="img/hunspell-1.png" %}
+{% include img-viewer.html img="img/hunspell-1.png" %}
 
 
 [1]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries

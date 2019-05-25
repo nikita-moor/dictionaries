@@ -13,7 +13,7 @@ GoldenDict is a computer shell which could read and organize dictionaries of dif
 1. Press button "Add…" and open the folder of the dictionary. Press "OK" to confirm, and you will see how the dictionary is being indexed.
 1. Everything is ready and you could start looking for a word, e.g. "amor".
 
-{% include img-preview.html img="img/goldendict-1.png" %}
+{% include img-viewer.html img="img/goldendict-1.png" %}
 
 **Note:** if you organized dicitonaries into groups (menu Edit > Dictionaries, tab Groups), new dictionary will not be added automaticly. So, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
 

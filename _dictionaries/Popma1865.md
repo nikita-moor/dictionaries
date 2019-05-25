@@ -17,8 +17,8 @@ Dictionary of **Latin** synonyms with explanations on **Latin**. XDXF version co
 
 ## Exemplum
 
-{% include img-preview.html img="img/Popma1865-1.png" id="1" %}
-{% include img-preview.html img="img/Popma1865-2.png" id="2" %}
+{% include img-viewer.html img="img/Popma1865-1.png" id="1" %}
+{% include img-viewer.html img="img/Popma1865-2.png" id="2" %}
 
 
 ## Sources

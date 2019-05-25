@@ -19,7 +19,7 @@ For download see [Release][101] section; development version and source files ar
 
 ## Exemplum
 
-{% include img-preview.html img="img/SmithHall1871-1.png" %}
+{% include img-viewer.html img="img/SmithHall1871-1.png" %}
 
 
 ## Sources

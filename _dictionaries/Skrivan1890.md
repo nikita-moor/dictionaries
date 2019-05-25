@@ -14,8 +14,8 @@ For download see [Release][101] section; development version and source files ar
 
 ## Exemplum
 
-{% include img-preview.html img="img/Skrivan1890-1.png" id="1" %}
-{% include img-preview.html img="img/Skrivan1890-2.png" id="2" %}
+{% include img-viewer.html img="img/Skrivan1890-1.png" id="1" %}
+{% include img-viewer.html img="img/Skrivan1890-2.png" id="2" %}
 
 
 ## Sources

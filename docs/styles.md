@@ -11,12 +11,12 @@ Styles provided by this project fix several formatting problems: reduce line-spa
 
 Original (left) and custom (right) styles:
 
-{% include img-preview.html img="img/styles-1.png" id="1" %}
-{% include img-preview.html img="img/styles-2.png" id="2" %}
+{% include img-viewer.html img="img/styles-1.png" id="1" %}
+{% include img-viewer.html img="img/styles-2.png" id="2" %}
 
 Some dictionaries are made of page images. Special styles add feature to show full image on click on the preview. If you do not use custom styles, you will need to double click on the preview, then the full image will be opened in external image viewer.
 
-{% include img-preview.html img="img/styles-3.png" id="3" %}
+{% include img-viewer.html img="img/styles-3.png" id="3" %}
 
 You may want to change the maximum size of the image. For that purpose tune parameter "height":
 

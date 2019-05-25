@@ -16,8 +16,8 @@ XDXF edition contains only keys and links to the scans of the corresponding page
 
 ## Exemplum
 
-{% include img-preview.html img="img/HillJohn1804-1.png" id="1" %}
-{% include img-preview.html img="img/HillJohn1804-2.png" id="2" %}
+{% include img-viewer.html img="img/HillJohn1804-1.png" id="1" %}
+{% include img-viewer.html img="img/HillJohn1804-2.png" id="2" %}
 
 
 ## Source
