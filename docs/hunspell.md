@@ -25,7 +25,7 @@ Each dictionary would work fine with GoldenDict. Additionally, they could be use
 
 # Installing Hunspell dictionaries
 
-**Note:** Users of Linux could install Hunspell dictionaries as ordinary applications (see Software Center of something alike). For example Arch Linux provides a package with dictionary created by Karl Zeiler and Jean-Pierre Sutto. Then follow the step 3 in the list below, or start from beginning if your distributive has no Hunspell dictionary for Latin language.
+**Note:** Users of Linux could install Hunspell dictionaries as ordinary applications (see Software Center or something alike). For example, Arch Linux [provides a package][3] based on the dictionary of Karl Zeiler and Jean-Pierre Sutto. After installing, follow the step 3 in the list below, or start from beginning if your distributive has no Hunspell dictionary for Latin language.
 
 Procedure is simple:
 
@@ -42,4 +42,5 @@ Procedure is simple:
 
 [1]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries
 [2]: http://www.obta.uw.edu.pl/~draco/
+[3]: https://aur.archlinux.org/packages/hunspell-la
 
