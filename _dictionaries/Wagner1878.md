@@ -10,7 +10,7 @@ comment: suspended
 
 This phraseological dictionary of **Latin** language contains translation of words on **French**, synonyms, antonyms, adjectives or adverbs applicable to these words, and example phrases from classic Latin works. Addendum folds in an index of Latin neologisms **[Lat-Lat]**, profesisonal lexicon **[Fra-Lat]**, and **French-Latin** dictionary.
 
-**Early developer version**; part 1/18 — words from A to ANGUSTUS. Personally I am not interested in this dictionary, so future development is not expected to be active.
+**Early developer version**; part 1/18 — words from A to ANGUSTUS. [Full version of the dictionary][3] (indexed page scans) is available on the [web-site of Godmy][4] (also known as Martinus Bohemus). Personally I am not interested in this dictionary, so future development is not expected to be active.
 
 For download see [Release][101] section; development version and source files are in the [github repository][1].
 
@@ -59,5 +59,8 @@ By the most optimistic variant, Part 1 will be released in 2–3 months, but it 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [2]: https://github.com/nikita-moor/latin-dictionary/blob/master/Wagner1878/article-style.css
+[3]: http://www.lexica.linguax.com/wagner.php
+[4]: http://www.lexica.linguax.com/
+
 {% include dicitonary_ref.md %}
 
