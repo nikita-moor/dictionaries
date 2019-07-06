@@ -5,7 +5,7 @@ title: Documentation
 
 # Hunspell: words normalization
 
-Latin is an inflected language, so a word could have several forms but dictionaries usually contain only its normal form, such as nominative singular for nouns. For this reason, one cannot simply copy an unknown word into GoldenDict, but need to manually type its correct form.
+Latin is an inflected language, so a word could have several forms but dictionaries usually contain only its normal form, such as nominative singular for nouns. For this reason, one cannot simply copy an unknown word into GoldenDict, but has to manually type its correct form.
 
 Hunspell is a spell checking system, also able to produce lemmas, i.e. normal forms of the words, so, for example, word "puellam" will be transformed to "puella", which significantly simplifies work with dictionaries.
 

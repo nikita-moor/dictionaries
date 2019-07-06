@@ -8,11 +8,11 @@ comment: abandoned
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-**English-Latin** dictionary. Current state of the transcript (2019-05-21) does not allow to detect dictionary structure correctly, so in many cases formatting is incorrect. I am not going to fix it until the transcript be finished.
+**English-Latin** dictionary. Current state of the transcript (2019-05-21) does not allow to detect dictionary structure correctly, so in many cases formatting is broken. I am not going to fix it until the transcript be finished.
 
 Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][2] and should be recommended to all users.
 
-To the date, this XDXF version is the only known offline edition, so use still could find you useful, even taking into consideration afore-referenced weaknesses.
+To the date, our XDXF version is the only known offline edition, so one could still find it useful.
 
 For download see [Release][101] section; development version and source files are in the [github repository][1].
 
