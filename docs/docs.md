@@ -27,11 +27,11 @@ Situation around mobile dictionary shells is not such good. Some of them correct
 
 * [Aard 2](http://aarddict.org/) (Android) — open source application. Use **Slob** format.
 * [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, _Free Edition_ works with up to 5 dictionaries. Interface is somewhat confusing, but it supports many formats and could import merely every Latin dictionary you could find in the Internet. We provide **XDXF** files for this application.
-* [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — is a Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (new special dictionary).
+* [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (with special dictionary).
 
 Not recommended:
 
-* [GoldenDict Mobile](http://goldendict.mobi/) — commercial, _Free_ version limits number of active dictionaries to 5. Being an excellent and very popular application, it does not recognize embedded images, so is practically useless for the most of our dictionaries. Files in **StarDict** or **ABBYY Lingvo** formats could be produced for fully transcribed dictionaries, please [request by email]({{ site.baseurl }}{% link about.md %}).
+* [GoldenDict Mobile](http://goldendict.mobi/) — commercial, _Free_ version limits number of active dictionaries to 5. Being an excellent and very popular application, it does not recognize embedded images, so is practically useless for the most of our dictionaries. Files in **StarDict** or **ABBYY Lingvo** formats could be produced for text-only dictionaries, please [request by email]({{ site.baseurl }}{% link about.md %}).
 
 More mobile shells could be found in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2).
 
