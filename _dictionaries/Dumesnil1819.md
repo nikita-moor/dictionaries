@@ -10,7 +10,7 @@ comment: draft
 
 Full title is "Latin synonyms, with their different significations, and examples taken from the best Latin authors".
 
-Dictionary of **Latin** synonyms with explanations on **English**. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
+Dictionary of **Latin** synonyms with explanations in **English**. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
 For download see [Release][101] section; development version and source files are in the [github repository][1].
 

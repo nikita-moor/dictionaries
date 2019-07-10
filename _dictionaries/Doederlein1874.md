@@ -7,7 +7,7 @@ nickname: Doederlein1874
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Dictionary of **Latin** synonyms with explanations on **English**.
+Dictionary of **Latin** synonyms with explanations in **English**.
 
 For download see [Release][101] section; development version and source files are in the [github repository][1].
 

@@ -10,7 +10,7 @@ comment: draft
 
 Full title is "Dictionary of Latin synonymes, for the use of schools and private students, with a complete index".
 
-Dictionary of **Latin** synonyms with explanations on **English**. Computer version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
+Dictionary of **Latin** synonyms with explanations in **English**. Computer version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
 ## Download
 
