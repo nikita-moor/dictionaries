@@ -3,7 +3,7 @@ layout: default
 title: Documentation
 ---
 
-# Adding dictionaries to Goldendict
+# Adding dictionaries to GoldenDict
 
 GoldenDict is a computer shell which could read and organize dictionaries of different formats. In order to use dictionaries from this website you should make few simple steps:
 

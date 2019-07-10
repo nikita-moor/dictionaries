@@ -4,16 +4,34 @@ title: Documentation
 ---
 
 # Dictionary shells
+## Preface
 
-[GoldenDict](http://goldendict.org/) is a free desktop computer dictionary shell. It works on Windows, Linux, and MacOS, and supports great variety of file formats. To the date it is the most functional application for work with dictionaries.
+Choosing dictionary shell, one need to take in account two questions:
 
-Users of mobile devices could try [Aard2](http://aarddict.org/). Its import tool [xdxf2slob](https://github.com/itkach/xdxf2slob/) correctly recognizes XDXF format. Additional formats for other applications could be produced, but it completely depends on the users requests. Please, [join the discussion](https://github.com/nikita-moor/latin-dictionary/issues/2) or [contact me]({{ site.baseurl }}{% link about.md %}) directly.
+1. Does the application support the format of the dictionaries you have?
+1. Does it provide effective search through your collection?
+
+We publish our dictionaries in a **XDXF**, **Slob**, and **MDict** of formats, so it is likely you will find compatible shell easily.
+
+Concerning the second question, Hunspell library is the the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) contains more information about Hunspell and instructions on setting it up.
 
 
-# GoldenDict setting up
+## Desktop
 
-For adding dictionary to GoldenDict see article ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}). It gives enough information for starting using dictionary, but looking for a word you will need to type in its normal form, such as "amo" for "amavistis".
+[GoldenDict](http://goldendict.org/) is leaving no alternative desktop dictionary shell. It works on Windows, Linux, and MacOS, and supports great variety of file formats. To the date it is the most functional application for work with dictionaries, and talking about Latin language you would not find more appropriate software. Read article ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}) about initial configuration of the GoldenDict.
 
-To manage this problem GoldenDict offers automatic words normalization based on Hunspell library. It is not a real lemmatizer, but in most cases suggestions are correct and it greatly simplifies use of the dictionary. See article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) explaining how to setup morphology normalization.
 
-Every application chooses independently how it will render articles of XDXF dictionaries. Users of GoldenDict could customize this process, and we propose our variant improving appearance but also adding new features critical to some dictionaries. Please, read documentation to every dictionary to find the answer do you need to apply this setting or could skip it. Article ["Custom styles"]({{ site.baseurl }}{% link docs/styles.md %}) tells about benefits of this castomization.
+## Mobile
+
+Situation around mobile dictionary shells is not such good. Some of them correctly recognize dictionaries, but do not provide good search, or support one format very well but do not accept other files from your collection. Below we list some software but cannot recommend absolutely satisfying one:
+
+* [Aard 2](http://aarddict.org/) (Android) — open source application. Use **Slob** format.
+* [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, _Free Edition_ works with up to 5 dictionaries. Interface is somewhat confusing, but it supports many formats and could import merely every Latin dictionary you could find in the Internet. We provide **XDXF** files for this application.
+* [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — is a Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (new special dictionary).
+
+Not recommended:
+
+* [GoldenDict Mobile](http://goldendict.mobi/) — commercial, _Free_ version limits number of active dictionaries to 5. Being an excellent and very popular application, it does not recognize embedded images, so is practically useless for the most of our dictionaries. Files in **StarDict** or **ABBYY Lingvo** formats could be produced for fully transcribed dictionaries, please [request by email]({{ site.baseurl }}{% link about.md %}).
+
+More mobile shells could be found in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2).
+
