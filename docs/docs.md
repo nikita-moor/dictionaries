@@ -25,13 +25,10 @@ Concerning the second question, Hunspell library is the the most advanced method
 
 Situation around mobile dictionary shells is not such good. Some of them correctly recognize dictionaries, but do not provide good search, or support one format very well but do not accept other files from your collection. Below we list some software but cannot recommend absolutely satisfying one:
 
-* [Aard 2](http://aarddict.org/) (Android) — open source application. Use **Slob** format.
+* [Aard 2](http://aarddict.org/) (Android) — Open source application. Use **Slob** format.
 * [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, _Free Edition_ works with up to 5 dictionaries. Interface is somewhat confusing, but it supports many formats and could import merely every Latin dictionary you could find in the Internet. We provide **XDXF** files for this application.
+* [GoldenDict Mobile](http://goldendict.mobi/) — commercial, _Free_ version limits number of active dictionaries to 5. Use **StarDict** files.
 * [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (with special dictionary).
 
-Not recommended:
-
-* [GoldenDict Mobile](http://goldendict.mobi/) — commercial, _Free_ version limits number of active dictionaries to 5. Being an excellent and very popular application, it does not recognize embedded images, so is practically useless for the most of our dictionaries. Files in **StarDict** or **ABBYY Lingvo** formats could be produced for text-only dictionaries, please [request by email]({{ site.baseurl }}{% link about.md %}).
-
-More mobile shells could be found in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2).
+More mobile shells could be found in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2). If you need some exotic format, please, [contact us]({{ site.baseurl }}{% link about.md %}).
 

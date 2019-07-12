@@ -4,7 +4,6 @@ author: Ramshorn
 year: 1860
 tags: [Latin, English]
 nickname: Ramshorn1860
-comment: draft
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
