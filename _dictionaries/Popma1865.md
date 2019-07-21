@@ -5,6 +5,7 @@ year: 1865
 tags: [Latin]
 nickname: Popma1865
 comment: draft
+categories: [synonyms, latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

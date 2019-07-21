@@ -5,6 +5,7 @@ year: 1878
 tags: [Latin, French]
 nickname: Wagner1878
 comment: suspended
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

@@ -5,6 +5,7 @@ year: 1819
 tags: [Latin, English]
 nickname: Dumesnil1819
 comment: draft
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

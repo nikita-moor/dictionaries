@@ -4,7 +4,8 @@ author: Smith & Hall
 year: 1871
 tags: [English, Latin]
 nickname: SmithHall1871
-comment: abandoned
+comment: suspended
+categories: [general]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

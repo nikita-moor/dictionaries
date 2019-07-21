@@ -4,6 +4,7 @@ author: "John Hill"
 year: 1804
 tags: [Latin, English]
 nickname: HillJohn1804
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

@@ -4,6 +4,7 @@ author: Döderlein
 year: 1875
 tags: [Latin, English]
 nickname: Doederlein1874
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

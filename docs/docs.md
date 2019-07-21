@@ -11,9 +11,9 @@ Choosing dictionary shell, one need to take in account two questions:
 1. Does the application support the format of the dictionaries you have?
 1. Does it provide effective search through your collection?
 
-We publish our dictionaries in a **XDXF**, **Slob**, and **MDict** formats, so it is likely you will find compatible shell easily.
+We publish our dictionaries in a **XDXF**, **Slob**, **StarDict**, and **MDict** formats, so it is likely you will find compatible shell easily.
 
-Concerning the second question, Hunspell library is the the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) contains more information about Hunspell and instructions on setting it up.
+Concerning the second question, Hunspell library is the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) contains more information about Hunspell and instructions on setting it up.
 
 
 ## Desktop

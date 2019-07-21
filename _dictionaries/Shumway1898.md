@@ -4,6 +4,7 @@ author: Shumway
 year: 1898
 tags: [English, Latin]
 nickname: Shumway1898
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

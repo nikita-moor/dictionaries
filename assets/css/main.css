@@ -159,3 +159,8 @@ blockquote {
   background: #eee;
 }
 
+li > p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
