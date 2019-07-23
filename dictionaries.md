@@ -3,8 +3,7 @@ layout: default
 title: Dictionaries
 ---
 
-# Dictionaries
-## Latin-Latin dictionaries
+# Latin-Latin dictionaries
 
 {% assign dicts = site.dictionaries | where: "categories","latin" | sort: "nickname" %}
 {% for dict in dicts %}
@@ -14,7 +13,7 @@ title: Dictionaries
   
 {%- endfor %}
 
-## General dictionaries
+# General dictionaries
 
 {% assign dicts = site.dictionaries | where: "categories","general" | sort: "nickname" %}
 {% for dict in dicts %}
@@ -24,7 +23,7 @@ title: Dictionaries
   
 {%- endfor %}
 
-## Dictionaries of synonyms
+# Dictionaries of synonyms
 
 {% assign dicts = site.dictionaries | where: "categories","synonyms" | sort: "nickname" %}
 {% for dict in dicts %}
