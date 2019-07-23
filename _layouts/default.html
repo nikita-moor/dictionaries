@@ -23,19 +23,19 @@
         <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
         <h1>Navigation</h1>
         <div>
-        <ul class="sidebar-toc">
-        {% for item in site.data.toc %}
-          <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-          {% if item.submenu %}
-          <ul class="sidebar-toc">
-          {% for subitem in item.submenu %}
-            <li><a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.title }}</a>
-          {% endfor %}
-          </ul>
-          {% endif %}
-          </li>
-        {% endfor %}
-        <ul/>
+	      <ul class="sidebar-toc">
+	      {% for item in site.data.toc %}
+	        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+	        {% if item.submenu %}
+	        <ul class="sidebar-toc">
+	          {% for subitem in item.submenu %}
+	          <li><a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.title }}</a></li>
+	          {% endfor %}
+	        </ul>
+	        {% endif %}
+	        </li>
+	      {% endfor %}
+	      </ul>
         </div>
       </div>
       <div class="content">
