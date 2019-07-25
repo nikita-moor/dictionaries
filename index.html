@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% include_relative /welcome.html %}
+{% include welcome.html %}
 
 <h1>News</h1>
 
@@ -30,7 +30,7 @@ title: Home
     {% if page == paginator.page %}
   <li class="active"><a>{{ page }}</a></li>
     {% elsif page == 1 %}
-  <li><a href="/">{{ page }}</a></li>
+  <li><a href="{{ site.baseurl }}/">{{ page }}</a></li>
     {% else %}
   <li><a href="{{ site.baseurl }}/page{{ page }}">{{ page }}</a></li>
     {% endif %}

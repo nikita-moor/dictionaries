@@ -5,14 +5,14 @@
 {% endif %}
 
 <div class="img-viewer">
-  <input type="checkbox" id="img-viewer-{{ id }}"/>
+  <input type="checkbox" id="img-viewer-{{ id }}" />
   <label for="img-viewer-{{ id }}">
     <div class="img-viewer-full">
       <div>
-        <img src="{{ include.img }}"/>
+        <img src="{{ include.img }}" alt="image" />
       </div>
     </div>
-    <img src="{{ include.img }}" height="200" alt="preview"/>
+    <img src="{{ include.img }}" height="200" alt="preview" alt="image" />
   </label>
 </div>
 

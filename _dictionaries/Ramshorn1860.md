@@ -12,6 +12,7 @@ Full title is "Dictionary of Latin synonymes, for the use of schools and private
 
 Dictionary of **Latin** synonyms with explanations in **English**. Computer version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
+
 ## Download
 
 Current version is [v1.0.2][2] (July 10, 2019). Recommended format for [GoldenDict is Slob][3], read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.

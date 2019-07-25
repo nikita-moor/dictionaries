@@ -11,15 +11,20 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms with explanations in **Latin**. XDXF version contains keys and scans of the corresponding pages.
+Dictionary of **Latin** synonyms with explanations in **Latin**.
 
-**Early developer version.** For download see [Release][101] section; development version and source files are in the [github repository][1].
+
+## Download
+
+**Early development version.** Latest WIP release is [v0.9.2][2] (July 25, 2019).
+
+Source files see in [github repository][1].
 
 
 ## Exemplum
 
-{% include img-viewer.html img="img/Popma1865-1.png" id="1" %}
-{% include img-viewer.html img="img/Popma1865-2.png" id="2" %}
+{% include img-viewer.html img="img/Popma1865-3.png" id="1" %}
+{% include img-viewer.html img="img/Popma1865-4.png" id="2" %}
 
 
 ## Sources
@@ -27,14 +32,9 @@ Dictionary of **Latin** synonyms with explanations in **Latin**. XDXF version co
 1. Popma, Ausonius; Heckel, J. F.; Messerschmid, J. Ch.; Richter, A. D.; Vallauri, T. _De differentiis verborum (2nd ed.)._ Asceterii Salesiani Publisher, Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC> \[Accessed 28 April 2019\].
 
 
-## Usage guidelines
-
-[Custom styles][103] make it possible to easily see scans of the pages, otherwise double-click on the preview to open full image.
-
-
 ## States and limitations
 
-It is an early developer version. Index of keywords may contain errors or missing lines, currenty undergoes examination.
+It is an early developer version. Index of keywords does contain errors and missing lines, currenty undergoes examination.
 
 
 ## License
@@ -45,13 +45,7 @@ It is an early developer version. Index of keywords may contain errors or missin
 </a>
 
 
-## ToDo
-
-* [x] fix OCR errors in the articles' keys (first proofread round)
-* [ ] check index for missing keys (second proofread round)
-* [ ] add lemmas
-
-
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-25
 {% include dicitonary_ref.md %}
 
