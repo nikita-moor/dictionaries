@@ -1,10 +1,10 @@
 ---
-title: "A Latin Dictionary"
+title: A Latin Dictionary
 author: Lewis & Short
 year: 1879
 tags: [Latin, English]
 nickname: LewisShort1879
-categories: [general]
+categories: [scientific]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

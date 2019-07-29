@@ -1,5 +1,5 @@
 ---
-title: "Index verbōrum"
+title: Index verbōrum
 author: Appleton
 year: 1914
 tags: [Latin, Latin]

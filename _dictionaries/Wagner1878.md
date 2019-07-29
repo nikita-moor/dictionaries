@@ -1,6 +1,6 @@
 ---
-title: "Lexicon Latinum"
-author: "Wagner"
+title: Lexicon Latinum
+author: Wagner
 year: 1878
 tags: [Latin, French]
 nickname: Wagner1878

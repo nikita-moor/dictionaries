@@ -1,5 +1,5 @@
 ---
-title: "De differentiis verborum"
+title: De differentiis verborum
 author: Popma
 year: 1865
 tags: [Latin]

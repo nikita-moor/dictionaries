@@ -1,6 +1,6 @@
 ---
-title: "The synonymes of the Latin language"
-author: "John Hill"
+title: The synonymes of the Latin language
+author: John Hill
 year: 1804
 tags: [Latin, English]
 nickname: HillJohn1804

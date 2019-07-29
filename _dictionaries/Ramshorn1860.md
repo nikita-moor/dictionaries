@@ -1,5 +1,5 @@
 ---
-title: "Dictionary of Latin synonymes"
+title: Dictionary of Latin synonymes
 author: Ramshorn
 year: 1860
 tags: [Latin, English]
