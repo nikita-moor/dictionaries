@@ -13,7 +13,7 @@ Choosing dictionary shell, one need to take in account two questions:
 
 We publish our dictionaries in a **XDXF**, **Slob**, **StarDict**, and **MDict** formats, so it is likely you will find compatible shell easily.
 
-Concerning the second question, Hunspell library is the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Article ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) contains more information about Hunspell and instructions on setting it up.
+Concerning the second question, Hunspell library is the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Section ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) tells more about Hunspell.
 
 
 ## Desktop

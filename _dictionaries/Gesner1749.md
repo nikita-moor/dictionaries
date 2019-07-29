@@ -12,6 +12,8 @@ Thesaurus with short explanations of the words in **Latin**, and following exten
 
 Text of the dictionary was partially transcribed—only first sentence or several words—by the team of Dr. Wilhelm Kühlmann from Heidelberg University. The remaining parts of the articles should be read from the attached scanned pages.
 
+Addendum ["Latinitatis Index Etymologicus"][3] is not included into our version. If you find it important, please, contact us.
+
 
 ## Download
 
@@ -59,7 +61,7 @@ in accordance with the [statement][4] on the CAMENA website, this work could be 
 
 [1]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html
 [2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-30
-
+[3]: http://www.archive.org/stream/novuslinguaeeter04gesn#page/n576/mode/1up
 [4]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html#04
 [5]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html
 
