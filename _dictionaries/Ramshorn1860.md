@@ -15,7 +15,7 @@ Dictionary of **Latin** synonyms with explanations in **English**. Computer vers
 
 ## Download
 
-Current version is [v1.0.2][2] (July 10, 2019). Recommended format for [GoldenDict is Slob][3], read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version: [Augusts 20, 2019][2]. Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Development version and source files are in the [github repository][1].
 
@@ -70,8 +70,7 @@ Original headwords were replaced with lemmas harmonized with [Hunspell dictionar
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-10
-[3]: https://github.com/nikita-moor/latin-dictionary/releases/download/2019-07-10/Ramshorn1860-slob-goldendict.zip
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-20
 
 {% include dicitonary_ref.md %}
 

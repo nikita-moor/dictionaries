@@ -16,7 +16,7 @@ Dictionary of **Latin** synonyms with explanations in **Latin**.
 
 ## Download
 
-**Early development version.** Latest WIP release is [v0.9.2][2] (July 25, 2019).
+**Development version.** Latest released: [Augusts 20, 2019][2].
 
 Source files see in [github repository][1].
 
@@ -46,6 +46,6 @@ It is an early developer version. Index of keywords does contain errors and miss
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-25
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-20
 {% include dicitonary_ref.md %}
 

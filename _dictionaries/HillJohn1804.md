@@ -12,7 +12,12 @@ Full title is "The synonymes of the Latin language, alphabetically arranged; wit
 
 In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications in **English** are extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
-XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. For download see [Release][101] section; development version and source files are in the [github repository][1].
+
+## Download
+
+Latest release: [Augusts 20, 2019][2].
+
+Source files see in [github repository][1].
 
 
 ## Exemplum
@@ -40,5 +45,6 @@ Original headwords were replaced with lemmas harmonized with [Hunspell dicitonar
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-20
 {% include dicitonary_ref.md %}
 
