@@ -15,7 +15,7 @@ Dictionary of **Latin** synonyms with explanations in **English**. Computer vers
 
 ## Download
 
-Current version: [Augusts 20, 2019][2]. Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version: [v1.1][2] (Augusts 20, 2019). Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Development version and source files are in the [github repository][1].
 

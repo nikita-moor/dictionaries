@@ -16,7 +16,7 @@ Dictionary of **Latin** synonyms with explanations in **Latin**.
 
 ## Download
 
-**Development version.** Latest released: [Augusts 20, 2019][2].
+Work in progress release: [v0.10][2] (Augusts 20, 2019). Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Source files see in [github repository][1].
 

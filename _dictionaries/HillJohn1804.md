@@ -15,7 +15,7 @@ In fact, these are two dictionaries unde one cover, a dictionary of **Latin** sy
 
 ## Download
 
-Latest release: [Augusts 20, 2019][2].
+Current version: [v1.1][2] (Augusts 20, 2019). Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Source files see in [github repository][1].
 
