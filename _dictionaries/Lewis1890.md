@@ -51,7 +51,7 @@ Quality of the TEI files is not high, incorrectly marked up articles are numerou
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-23
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
 
 {% include dicitonary_ref.md %}
 

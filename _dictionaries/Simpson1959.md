@@ -40,7 +40,7 @@ Basing on the information I know [about the source book][5], it was published be
 This work is licensed under the [Code Project Open License][7] (CPOL).
 
 
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-23
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
 [3]: http://latindiscussion.com/forum/latin/latin-project-app-free-to-download.31998/
 [4]: https://www.codeproject.com/Articles/72737/Latin-Textbook-and-Look-up-Table-in-C
 [5]: http://latindiscussion.com/forum/latin/latin-project-app-free-to-download.31998/#post-430837
