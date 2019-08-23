@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "Multiple updates"
+title:  "Cumulative release"
 ---
-
-# Cumulative release
 
 ### [Popma1865][1] v0.10
 
