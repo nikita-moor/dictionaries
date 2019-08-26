@@ -26,8 +26,8 @@ Current version is [v1.0 (August 23, 2019)][2]. Format Slob is recommended for G
 
 # Sources
 
-1. Simpson D.P. _Cassell's Latin Dictionary._ New York, 1959.
-2. Transcribed by Christ Kennedy ([@BadButBit][3]) as a part of his "[Latin Textbook and Look-up Table in C#][4]" project.
+1. Simpson D.P. _Cassell's Latin Dictionary._ New York: Simon & Schuster Macmillan Company, 1959.
+2. Transcribed by Christ Kennedy ([@BadButBit][3]) as a part of his project "[Latin Textbook and Look-up Table in C#][4]".
 
 
 # States and limitations

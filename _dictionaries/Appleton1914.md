@@ -26,7 +26,7 @@ All words are macronized.
 
 ## Download
 
-Current version is [v1.0][2] (July 19, 2019). Recommended format for [GoldenDict is Slob][3], read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version is [v1.1 (July 19, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Development version and source files are in the [github repository][1].
 
@@ -57,8 +57,7 @@ Forms of the words in the original books are compatible with [Hunspell dictionar
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-07-19
-[3]: https://github.com/nikita-moor/latin-dictionary/releases/download/2019-07-19/Appleton1914-slob.zip
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-27
 
 {% include dicitonary_ref.md %}
 

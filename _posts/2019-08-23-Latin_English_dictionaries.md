@@ -6,7 +6,7 @@ title:  "Latin-English dictionaries"
 
 ### [Simpson1959][3] v1.0
 
-Simple and nice dictionary for Latin students. It is wonderful that one guy was able to transcribe full dictionary, amazing!
+Simple and nice dictionary for learners of Latin courses. It was completely transcribed by one person, amazing!
 
 ### [Lewis1890][1] v1.0
 
