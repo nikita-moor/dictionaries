@@ -16,5 +16,4 @@ Unless otherwise indicated, the content of the website is available under the [C
 
 Picture of the reading girl is taken from the [ClipArt ETC](https://etc.usf.edu/clipart/) (Free Classroom License).
 
-JavaScript library [Spotlight](https://github.com/nextapps-de/spotlight) (MIT license) is embedded in some dictionary formats.
-
+JavaScript library [Spotlight](https://github.com/nextapps-de/spotlight) (MIT license) is used on the website and embedded in some dictionary formats.

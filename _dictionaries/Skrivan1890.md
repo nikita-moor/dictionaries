@@ -4,7 +4,7 @@ author: Skřivan
 year: 1890
 tags: [Latin, Czech]
 nickname: Skrivan1890
-categories: [general]
+categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 

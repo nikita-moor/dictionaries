@@ -46,18 +46,6 @@ Format and structure of the dictionary hardly fit the XDXF format. _Draft versio
 </a>
 
 
-## work plans
-
-This work is based on the ongoing transcribe project and I am not going to do any improvements till the 1st part of the dictionary be finished.
-
-Current state of the transcript project (2018-03-04):
-
-* Parts 1–2: Formatting round (F2)
-* Parts 3–18: Profreading round (P2–P3)
-
-By the most optimistic variant, Part 1 will be released in 2–3 months, but it completely depends on the proofreading team.
-
-
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [2]: https://github.com/nikita-moor/latin-dictionary/blob/master/Wagner1878/article-style.css
 [3]: http://www.lexica.linguax.com/wagner.php
