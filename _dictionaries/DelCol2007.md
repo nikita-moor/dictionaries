@@ -30,7 +30,7 @@ Current version is [v1.0 (September 12, 2019)][2]. Format Slob is recommended fo
 
 # States and limitations
 
-Placeholders, such as "un cuarto de -", where replaced with the headwords, "un cuarto de _hora_", where it is possible.
+Keywords are duplicated with their equivalents after removing diacritics, e.g. "lingüística" > "linguistica", for convenience. Placeholders, such as "un cuarto de -", where replaced with the headwords, "un cuarto de _hora_", where it was possible to do automatically.
 
 Some incorrectly formatted elements were fixed, but following work requires clarification of the situation around the license. Hope, one day the dictionary will be reformatted for better appearance on computer devices. For example:
 
@@ -55,7 +55,7 @@ If the copyright holder decides to distribute the dictionary under a less restri
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-12
 
 {% include dicitonary_ref.md %}
 
