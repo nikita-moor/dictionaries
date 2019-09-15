@@ -49,5 +49,5 @@ Quality of the TEI files is not high, incorrectly marked up articles are numerou
 
 
 [1]: {{ site.baseurl }}{% link _dictionaries/Lewis1890.md %}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-15
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
