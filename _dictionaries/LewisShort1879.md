@@ -8,14 +8,14 @@ categories: [scientific]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Well known classic **Latin**–**English** dictionary. See also its simplified version "[An Elementary Latin Dictionary]({{ site.baseurl }}{% link _dictionaries/Lewis1890.md %})" (Lewis, 1890).
+Well known classic **Latin**–**English** dictionary. See also its simplified version "[An Elementary Latin Dictionary][1]" (Lewis, 1890).
 
 On-line version of this dicitonary is available on [Latinitium web-site](https://www.latinitium.com/lewisshort).
 
 
 ## Download
 
-Current version is [v1.1 (August 23, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version is [v1.2 (September 15, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 ## Exemplum
 
@@ -48,8 +48,6 @@ Quality of the TEI files is not high, incorrectly marked up articles are numerou
 > Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities. Original version available for viewing and download at <http://www.perseus.tufts.edu/>
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[1]: {{ site.baseurl }}{% link _dictionaries/Lewis1890.md %}
 [2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
-
-{% include dicitonary_ref.md %}
-
+[3]: {{ site.baseurl }}{% link docs/docs.md %}

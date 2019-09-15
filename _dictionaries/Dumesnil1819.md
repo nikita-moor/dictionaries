@@ -11,15 +11,20 @@ categories: [synonyms]
 
 Full title is "Latin synonyms, with their different significations, and examples taken from the best Latin authors".
 
-Dictionary of **Latin** synonyms with explanations in **English**. XDXF version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
+Dictionary of **Latin** synonyms with explanations in **English**. Computer version contains keys and scans of the corresponding pages, small part of the articles were transcribed.
 
-For download see [Release][101] section; development version and source files are in the [github repository][1].
+
+## Download
+
+Current version is [v1.2 (September 15, 2019)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
 
 ## Exemplum
 
-{% include img-viewer.html img="img/Dumesnil1819-1.png" id="1" %}
-{% include img-viewer.html img="img/Dumesnil1819-2.png" id="2" %}
+<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
+  <img src="img/Dumesnil1819-1.png" class="spotlight" height="200">
+  <img src="img/Dumesnil1819-2.png" class="spotlight" height="200">
+</div>
 
 
 ## Sources
@@ -30,14 +35,9 @@ Originally, this dictionary was made from the 2nd English edition, now is being 
 2. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations: and examples taken from the best Latin authors; with additions and corrections (3rd edition)._ Whittaker, London, 1825. URL: <https://catalog.hathitrust.org/Record/009011445> \[Accessed 24 April 2019\].
 
 
-## Usage guidelines
-
-[Custom styles][103] make it possible to easily see scans of the pages, otherwise double-click on the preview to open full image.
-
-
 ## States and limitations
 
-Original headwords will be replaced with lemmas harmonized with [Hunspell dicitonary][102].
+Original headwords will be replaced with lemmas harmonized with [Hunspell dicitonary][3].
 
 
 ## License
@@ -57,6 +57,8 @@ Original headwords will be replaced with lemmas harmonized with [Hunspell dicito
 * [ ] ~~transcribe full text~~ (WIP 3%)
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-{% include dicitonary_ref.md %}
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-15
+[2]: {{ site.baseurl }}{% link docs/docs.md %}
+[3]: {{ site.baseurl }}{% link docs/hunspell.md %}
+
 

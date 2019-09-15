@@ -18,9 +18,7 @@ Current version is [v1.0 (September 12, 2019)][2]. Format Slob is recommended fo
 
 ## Exemplum
 
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
-  <img src="img/DelCol2007-1.png" class="spotlight" height="200">
-</div>
+<img src="img/DelCol2007-1.png">
 
 
 # Sources
