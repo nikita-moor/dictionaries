@@ -1,5 +1,5 @@
 ---
-title: Döderlein's Hand-book of Latin Synonymes
+title: Hand-book of Latin Synonymes
 author: Döderlein
 year: 1875
 tags: [Latin, English]
@@ -8,15 +8,21 @@ categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Dictionary of **Latin** synonyms with explanations in **English**.
+Dictionary of **Latin** synonyms explained in **English** language.
 
-For download see [Release][101] section; development version and source files are in the [github repository][1].
+
+## Download
+
+Current version is [v1.1 (September 30, 2019)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+
+XDXF format was used for an old [version v1.0][3].
 
 
 ## Exemplum
 
-{% include img-viewer.html img="img/Doederlein1874-1.png" id="1" %}
-{% include img-viewer.html img="img/Doederlein1874-2.png" id="2" %}
+<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
+  <img src="img/Doederlein1874-3.png" class="spotlight" height="200">
+</div>
 
 
 ## Sources
@@ -29,23 +35,28 @@ This dictionary bases on the English edition of "Döderlein's Hand-book of Latin
 
 ## States and limitations
 
-Original headwords were replaced with lemmas harmonized with [Hunspell dicitonary][102].
+Original headwords were replaced with lemmas harmonized with Hunspell dictionary.
 
-Greek keys are added as stub article "For αβγ see abc". It is not very convenient, but prevents bloating of the keywords lists (i.e. visual design problem). I am not competent in Greek language, so all Greek keys are left without normalization or any change, and preserve their form as is in the text.
-
-Three non-lexical articles were added to represent information about the dictionary: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, and DOEDERLEIN_PREFACE.
+All Greek words found in the dictionary are added as headwords to the corresponding articles. I am not competent in Greek language, so all Greek keys are left without normalization or any change, and preserve their forms as is in the text.
 
 
 ## Errata
 
 Typos found and fixed in the text of the following articles:
 
-1. "sodes" changed to "sordes" (article Lutum; Limus; Coenum; Sordes…)
-1. "prædia" changed to "prædæ" (article Præda; Manubiæ; Spolia; Exuviæ; Rapina.)
-1. "diutunus" changed to "diuturnus" (article Pridem; Diu; Dudum; Diuturnus; Diutinus.)
-1. reference "(295.)" was resolved to "(v. 295.)" (article Casus; Fors; Fortuna; Fors Fortuna; Fatum.)
+1. Article "Lutum": "sodes" changed to "sordes"
+1. Article "Præda": "prædia" changed to "prædæ"
+1. Article "Pridem": "diutunus" changed to "diuturnus"
+1. Article "Casus": reference "(295.)" was resolved to "(v. 295.)"
+1. Article "Fustis": "Fustus" changed to "Fustis" (checked by "Handbuch der lateinischen Synonymik", 1849)
+1. Article "Ebrius": "tremulentus" changed to "temulentus"
+1. Article "Cruciatus": "crucimenta" changed to "cruciamenta"
+1. Article "Dicere": "jocular" changed to "joculari"
+1. Article "Bonus": "Dic. Dejot. 10." changed to "Cic. Dejot. 10."
+1. Article "Mederi": "medicamen" changed to "medicamentum"
 
-Small changes in formatting (such as change of font from bold to italic) were made in the articles discussing following words: "numen", "tellus", "ludicrum", "restituere", "pigritia", "perperam", "sacer".
+
+Small changes in formatting (such as change of font from bold to italic) were made in the articles discussing the following words: "numen", "tellus", "ludicrum", "restituere", "pigritia", "perperam", "sacer".
 
 
 ## License
@@ -56,6 +67,7 @@ Small changes in formatting (such as change of font from bold to italic) were ma
 </a>
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-{% include dicitonary_ref.md %}
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-30
+[2]: {{ site.baseurl }}{% link docs/docs.md %}
+[3]: https://github.com/nikita-moor/latin-dictionary/releases/tag/doederlein1874-6
 
