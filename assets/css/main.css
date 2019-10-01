@@ -164,3 +164,8 @@ li > p {
     margin-bottom: 0;
 }
 
+img.spotlight {
+  margin-top: 15px;
+  box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+}
+
