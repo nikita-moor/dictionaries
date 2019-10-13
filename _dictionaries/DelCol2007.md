@@ -13,12 +13,16 @@ Full title of the book is "Diccionario auxiliar español-latino para el uso mode
 
 ## Download
 
-Current version is [v1.0 (September 12, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version is [v1.1 (October 13, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+
+Source files are in the [github repository][1].
 
 
 ## Exemplum
 
-<img src="img/DelCol2007-1.png">
+<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
+  <img src="img/DelCol2007-3.png" class="spotlight" height="200">
+</div>
 
 
 # Sources
@@ -29,12 +33,6 @@ Current version is [v1.0 (September 12, 2019)][2]. Format Slob is recommended fo
 # States and limitations
 
 Keywords are duplicated with their equivalents after removing diacritics, e.g. "lingüística" > "linguistica", for convenience. Placeholders, such as "un cuarto de -", where replaced with the headwords, "un cuarto de _hora_", where it was possible to do automatically.
-
-Some incorrectly formatted elements were fixed, but following work requires clarification of the situation around the license. Hope, one day the dictionary will be reformatted for better appearance on computer devices. For example:
-
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
-  <img src="img/DelCol2007-2.png" class="spotlight" height="200">
-</div>
 
 
 ## License
@@ -53,7 +51,7 @@ If the copyright holder decides to distribute the dictionary under a less restri
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-12
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-10-13
 
 {% include dicitonary_ref.md %}
 
