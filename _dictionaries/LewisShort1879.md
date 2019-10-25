@@ -15,7 +15,7 @@ On-line version of this dicitonary is available on [Latinitium web-site](https:/
 
 ## Download
 
-Current version is [v1.2 (September 15, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+Current version is [v1.3 (October 25, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 ## Exemplum
 
@@ -49,5 +49,6 @@ Quality of the TEI files is not high, incorrectly marked up articles are numerou
 
 
 [1]: {{ site.baseurl }}{% link _dictionaries/Lewis1890.md %}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-09-15
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-10-25
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
+
