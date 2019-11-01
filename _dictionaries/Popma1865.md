@@ -11,14 +11,12 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms with explanations in **Latin**.
+Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**.
 
 
 ## Download
 
-Work in progress release: [v0.10 (Augusts 20, 2019)][2].
-
-Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Work in progress release: [v0.11 (November 2, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 Source files see in [github repository][1].
 
@@ -36,7 +34,7 @@ Source files see in [github repository][1].
 
 ## States and limitations
 
-It is an early developer version. Index of keywords does contain errors and missing lines, currenty undergoes examination.
+This dictionary is being processed. Index of keywords does contain errors and missing lines, currently undergoes examination. About 20% of the text were transcribed, the remaining part is represented as images.
 
 
 ## License
@@ -48,6 +46,6 @@ It is an early developer version. Index of keywords does contain errors and miss
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-20
-{% include dicitonary_ref.md %}
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-11-02
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
 
