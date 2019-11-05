@@ -50,12 +50,12 @@ The resting part of the content was left intact, not counting formatting correct
 
 # Errata
 
-* валун: "по валам" > "по валунам"
-* житель: "incola, ae, n" > "incola, ae, m"
-* играть: "играть на музыкальном инструменте" > "играть на музыкальном инструменте canĕre; trāctāre"
-* ни: "пес... пес..." > "nec... nec..."
-* ниже: "sequenttbus" > "sequentibus"
-* пост: "jeunium" > "jejunium"
+* валун: "по валам" &gt; "по валунам"
+* житель: "incola, ae, n" &gt; "incola, ae, m"
+* играть: "играть на музыкальном инструменте" &gt; "играть на музыкальном инструменте canĕre; trāctāre"
+* ни: "пес... пес..." &gt; "nec... nec..."
+* ниже: "sequenttbus" &gt; "sequentibus"
+* пост: "jeunium" &gt; "jejunium"
 * средний: "equites um" (removed)
 
 
