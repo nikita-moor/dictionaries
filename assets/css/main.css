@@ -169,3 +169,7 @@ img.spotlight {
   box-shadow: 0 0 6px rgba(132, 132, 132, .75);
 }
 
+code {
+  font-size: .8em;
+}
+

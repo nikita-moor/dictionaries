@@ -1,5 +1,5 @@
 ---
-title: Russian-Latin Dictionary of Living Latin
+title: Большой русско-латинский словарь
 author: Poliachev
 year: 2002
 tags: [Russian, Latin]
