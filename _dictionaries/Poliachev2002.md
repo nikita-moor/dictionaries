@@ -30,7 +30,7 @@ Source files are in the [github repository][3].
 
 # Sources
 
-1. Поляшев М. П. _Большой русско-латинский словарь._ 2002(?). URL: <http://linguaeterna.com/ru/lexi.php>.
+1. Поляшев М. П. _Большой русско-латинский словарь._ 2002(?). URL: <http://linguaeterna.com/ru/lexi.php> [Accessed 2019-11-06].
 
 
 # States and limitations
