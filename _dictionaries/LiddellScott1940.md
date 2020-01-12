@@ -18,15 +18,19 @@ Current version is [v1.0 (January 6, 2020)][1]. Format Slob is recommended for G
 
 ## Exemplum
 
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
-  <img src="img/LiddellScott1940-1.png" class="spotlight" height="200">
-</div>
+<!--
+<a class="spotlight" href="img/LiddellScott1940-1.png" data-control="close">
+    <img src="img/LiddellScott1940-1.png" height="200">
+</a>
+-->
+
+{% include img-viewer.html img="img/LiddellScott1940-1.png" id="1" %}
 
 
 # Sources
 
 1. Liddell, Henry George; Scott, Robert. _A Greek-English Lexicon._ Clarendon Press, Oxford, 1940.
-1. Liddell, Henry George; Scott, Robert. _A Greek-English Lexicon._ Trustees of Tufts University, Medford, MA, 1995. (Revision 1.3 by 2014-07-10) URL: <https://github.com/PerseusDL/lexica/tree/master/CTS_XML_TEI/perseus/pdllex/grc/lsj>
+1. Liddell, Henry George; Scott, Robert. _A Greek-English Lexicon; Machine readable text._ Trustees of Tufts University, Medford, MA, 1995. (Revision 1.3 by 2014-07-10) URL: <https://github.com/PerseusDL/lexica/tree/master/CTS_XML_TEI/perseus/pdllex/grc/lsj>.
 
 
 # States and limitations

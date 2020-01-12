@@ -4,7 +4,7 @@ author: Appleton
 year: 1914
 tags: [Latin, Latin]
 nickname: Appleton1914
-categories: [general, latin]
+categories: [latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
