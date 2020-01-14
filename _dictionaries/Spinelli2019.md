@@ -2,13 +2,13 @@
 title: Latin near-synonyms
 author: Spinelli & Fenzi
 year: 2019
-tags: [Latin, Latin]
+tags: [Latin]
 nickname: Spinelli2019
 categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Dictionary of Latin synonyms "based on a similarity of meaning as established by the OLD" (see sources).
+Dictionary of Latin synonyms “based on a similarity of meaning as established by the OLD” (see sources).
 
 
 ## Download
@@ -20,17 +20,10 @@ Dictionary is also available as an independent [Android application][4].
 
 ## Exemplum
 
-### lacrima
+<div class="img-viewer">
+    <img src="img/Spinelli2019-1.png" alt="preview" />
+</div>
 
-* **lacrĭma** [-ae] _fem._
-* **collacrimatio** [-onis] _fem._
-* **fletus** [-us] _masc._
-* **plangor** [-oris] _masc._
-* **complorātio** [-onis] _fem._
-* **ploratus** [-us] _masc._
-* **planctus** [-us] _masc._
-* **lamentum** [-i] _neut._
-* **conquestus** [-us] _masc._
 
 
 # Sources
