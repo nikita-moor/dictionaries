@@ -53,7 +53,7 @@ Sign "√" marks main definitions of the words, see [Victionarium][4] for other 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and <a rel="license" href="https://www.gnu.org/licenses/fdl-1.3.html">GNU Free Documentation License (GFDL)</a>. License terms of each article, its text and included media files, could differ from general license.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-01-06
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-01-12
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: https://la.wiktionary.org/wiki/Auxilium:Abbreviationes
