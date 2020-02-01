@@ -20,10 +20,13 @@ Additional formats (EPUB, Kindle) can be found on the [LLL website](http://www.l
 
 ## Exemplum
 
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
+<!--div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
   <img src="img/Lewis1890-1.png" class="spotlight" height="200">
   <img src="img/Lewis1890-2.png" class="spotlight" height="200">
-</div>
+</div-->
+
+{% include img-viewer.html img="img/Lewis1890-1.png" id="1" %}
+{% include img-viewer.html img="img/Lewis1890-2.png" id="2" %}
 
 
 # Sources

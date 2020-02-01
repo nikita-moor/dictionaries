@@ -18,9 +18,13 @@ Current version is [v1.0 (January 14, 2020)][1]. Format Slob is recommended for 
 
 ## Exemplum
 
+<!--
 <div class="img-viewer">
     <img src="img/Zepic1941-1.png" alt="preview" />
 </div>
+-->
+
+{% include img-viewer.html img="img/Zepic1941-1.png" id="1" %}
 
 
 # Sources

@@ -18,10 +18,15 @@ Current version is [v1.0 (August 23, 2019)][2]. Format Slob is recommended for G
 
 ## Exemplum
 
+<!--
 <div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
   <img src="img/Simpson1959-1.png" class="spotlight" width="300">
   <img src="img/Simpson1959-2.png" class="spotlight" width="300">
 </div>
+-->
+
+{% include img-viewer.html img="img/Simpson1959-1.png" id="1" %}
+{% include img-viewer.html img="img/Simpson1959-2.png" id="2" %}
 
 
 # Sources

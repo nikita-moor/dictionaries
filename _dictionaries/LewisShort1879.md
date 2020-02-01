@@ -19,9 +19,11 @@ Current version is [v1.3 (October 25, 2019)][2]. Format Slob is recommended for 
 
 ## Exemplum
 
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
+<!--div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
   <img src="img/LewisShort1879-1.png" class="spotlight" height="200">
-</div>
+</div-->
+
+{% include img-viewer.html img="img/LewisShort1879-1.png" id="1" %}
 
 
 # Sources

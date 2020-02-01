@@ -20,9 +20,7 @@ XDXF format was used for an old [version v1.0][3].
 
 ## Exemplum
 
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
-  <img src="img/Doederlein1874-3.png" class="spotlight" height="200">
-</div>
+{% include img-viewer.html img="img/Doederlein1874-3.png" id="1" %}
 
 
 ## Sources

@@ -20,10 +20,13 @@ Dictionary is also available as an independent [Android application][4].
 
 ## Exemplum
 
+<!--
 <div class="img-viewer">
     <img src="img/Spinelli2019-1.png" alt="preview" />
 </div>
+-->
 
+{% include img-viewer.html img="img/Spinelli2019-1.png" id="1" %}
 
 
 # Sources
