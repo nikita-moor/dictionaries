@@ -35,7 +35,7 @@ Picture below shows the article after correction. Most of the articles are curre
 
 # States and limitations
 
-Transcript made by the HAB Wolfenbüttel lacks for semantic mark-up, so currently we could only draft headers. Paragraphs belonging to the same articles should be joined, but it requires manual proofing. In the future, we hope to add Greek text and mark up German word.
+Transcript made by the HAB Wolfenbüttel lacks for semantic mark-up, so currently we could only draft headers. Paragraphs belonging to the same articles should be joined, but it requires manual proofing. In the future, we hope to add Greek text and mark up German words.
 
 
 ## License

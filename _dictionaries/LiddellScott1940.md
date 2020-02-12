@@ -8,12 +8,14 @@ categories: [greek]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Long standing and famous **LSJ** dictionary of Ancient Greek language, transcribed by Perseus project and reproduced on many web-sites.
+Long standing and popular **LSJ** dictionary of Ancient Greek language, transcribed by Perseus project and reproduced on many web-sites.
 
 
 ## Download
 
-Current version is [v1.0 (January 6, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+Current version is [v1.1 (February 13, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+
+Also, variant of this dictionary in StarDict format can be taken from [Chaeréphon's collection][4].
 
 
 ## Exemplum
@@ -37,15 +39,15 @@ Current version is [v1.0 (January 6, 2020)][1]. Format Slob is recommended for G
 
 Headwords are represented in tree forms:
 
-* original Polytonic Greek script: φιλέω
+* Greek script polytonic: φιλέω
 * Greek script w/o diacritics: φιλεω
 * Latin transcription: filew
 
 Transliteration schema:
 
 ```
-αβγδεζηθικλμνξοπρςστυφϝχψω
-abgdezhqiklmncoprsstuffxyw
+αβγδεζηθικλμνξοπρςστυφχψωϝϟ
+abgdezhqiklmncoprsstufxywfk
 ```
 
 Citation references were not resolved into real Internet links.
@@ -64,7 +66,8 @@ Citation references were not resolved into real Internet links.
 
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-01-06
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-13
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[4]: http://chaerephon.e-monsite.com/pages/bailly.html
 
