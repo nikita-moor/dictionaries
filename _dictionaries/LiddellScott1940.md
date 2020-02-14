@@ -13,7 +13,7 @@ Long standing and popular **LSJ** dictionary of Ancient Greek language, transcri
 
 ## Download
 
-Current version is [v1.1 (February 13, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+Current version is [v1.2 (February 14, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
 Also, variant of this dictionary in StarDict format can be taken from [Chaeréphon's collection][4].
 
@@ -66,7 +66,7 @@ Citation references were not resolved into real Internet links.
 
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-13
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-14
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: http://chaerephon.e-monsite.com/pages/bailly.html
