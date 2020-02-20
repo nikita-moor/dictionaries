@@ -13,7 +13,7 @@ Classic **Latin**–**English** dictionary, younger brother of "[A Latin Diction
 
 ## Download
 
-Current version is [v1.0 (August 23, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
+Current version is [v1.1 (February 20, 2020)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
 
 Additional formats (EPUB, Kindle) can be found on the [LLL website](http://www.litteraelatinae.eu/?p=381).
 
@@ -54,7 +54,7 @@ Quality of the TEI files is not high, incorrectly marked up articles are numerou
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-23
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-20
 
 {% include dicitonary_ref.md %}
 

@@ -15,7 +15,7 @@ Long standing and popular **LSJ** dictionary of Ancient Greek language, transcri
 
 Current version is [v1.2 (February 14, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
-Also, variant of this dictionary in StarDict format can be taken from [Chaeréphon's collection][4].
+Another variant of this dictionary, in StarDict format, can be taken from the [Chaeréphon's collection][4].
 
 
 ## Exemplum

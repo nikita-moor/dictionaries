@@ -15,7 +15,7 @@ Total number of the articles should be about 40000.
 
 ## Download
 
-Current version is [v0.1 (February 1, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+Current version is [v0.2 (February 20, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
 Source files are in the [github repository][3].
 
@@ -48,7 +48,7 @@ Transcript made by the HAB Wolfenbüttel lacks for semantic mark-up, so currentl
 
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-01
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-20
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 

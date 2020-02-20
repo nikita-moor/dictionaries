@@ -15,7 +15,7 @@ Russian-Latin dictionary containing Contemporary Latin lexis was compiled by Pol
 
 ## Download
 
-Current version is [v1.0 (November 5, 2019)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells. Files in ABBYY Lingvo (DSL) and Pop-Up Dictionary formats can be taken from [Lingua Latina Aeterna][4].
+Current version is [v1.1 (February 20, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells. Files in ABBYY Lingvo (DSL) and Pop-Up Dictionary formats can be taken from [Lingua Latina Aeterna][4].
 
 Source files are in the [github repository][3].
 
@@ -55,13 +55,7 @@ The resting part of the content was left intact, not counting formatting correct
 
 # Errata
 
-* валун: "по валам" &gt; "по валунам"
-* житель: "incola, ae, n" &gt; "incola, ae, m"
-* играть: "играть на музыкальном инструменте" &gt; "играть на музыкальном инструменте canĕre; trāctāre"
-* ни: "пес... пес..." &gt; "nec... nec..."
-* ниже: "sequenttbus" &gt; "sequentibus"
-* пост: "jeunium" &gt; "jejunium"
-* средний: "equites um" (removed)
+See "errata" in the [repository][3] for corrections made in our version.
 
 
 ## License
@@ -74,7 +68,7 @@ The resting part of the content was left intact, not counting formatting correct
 This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a> with approval of Yuriy Semenov (Юрий Семёнов), the current administrator of Lingua Latina Aeterna.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-11-05
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-20
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: http://linguaeterna.com/ru/down.php
