@@ -2,7 +2,7 @@
 title: Index verbōrum
 author: Appleton
 year: 1914
-tags: [Latin, Latin]
+tags: [Latin]
 nickname: Appleton1914
 categories: [latin]
 ---

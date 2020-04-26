@@ -2,7 +2,7 @@
 title: Victionarium Latinum
 author: Wikimedia Foundation
 year: 2020
-tags: [Latin, Latin]
+tags: [Latin]
 nickname: Victionarium
 categories: [latin]
 ---
