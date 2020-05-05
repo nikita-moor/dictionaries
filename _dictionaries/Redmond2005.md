@@ -20,7 +20,7 @@ This dictionary provides translations from **English** to **Latin** language of 
 
 ## Download
 
-Current version is [v1.0 (April 22, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+Current version is [v1.1 (May 5, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
 PDF version formatted for printing can be taken free from lulu.com, see Sources.
 
@@ -56,7 +56,7 @@ Redmond uses capitalized letters to show correct stress (accent), such as "malEd
 
 We were unable to contact the author, so license of the dictionary is unknown. As long as copyright-holders do not restrict it, our work can be distributed as Public Domain.
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-04-22
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-05-05
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: http://web.archive.org/web/20170813102059/http://upaep.mx/micrositios/glossarium/
