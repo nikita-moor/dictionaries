@@ -2,9 +2,9 @@
 title: Theatrum Latino-Germanico-Graecum
 author: Reyher
 year: 1712
-tags: [Latin, German]
+tags: [Latin, German, Ancient Greek]
 nickname: Reyher1712
-categories: [scientific]
+categories: [latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
