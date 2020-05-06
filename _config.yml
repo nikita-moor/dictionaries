@@ -31,5 +31,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-paginate: 10
+paginate: 11
 
