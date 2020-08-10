@@ -31,8 +31,7 @@ Each dictionary would work fine with GoldenDict. Additionally, they could be use
 
 Procedure is simple:
 
-1. Download one of the dictionaries. File with extension "oxt" in fact is a zip-archive, rename it to "dict.zip" and extract. Required files "la.aff" and "la.dic" are located in the folder "la/universal".
-1. Rename them to "la_LA.aff" and "la_LA.dic" and save on your computer.
+1. [Download the dictionary](hunspell-la.zip) and extract files.
 1. Start GoldenDict, open menu Edit > Dictionaries, tab Sources > Morphology.
 1. Change "Path to a directory with Hunspell/Myspell dictionaries" to the folder where you saved the files. (**Linux:** if you installed dictionary as package, then the correct path will be "/usr/share/hunspell".)
 1. Enable (check on) "Latin Morphology" in the list.
