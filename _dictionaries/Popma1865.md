@@ -11,12 +11,14 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**.
+Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**. Sometimes, authors give analogies from Greek and Italian languages (first introduced in the 1852 edition).
+
+Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book, but in XVII-XVIII centuries was published together with "De differentiis verborum". It is not included into our edition.
 
 
 ## Download
 
-Work in progress release: [v0.11 (November 2, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+Work in progress release: [v0.12 (August 10, 2020)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 Source files see in [github repository][1].
 
@@ -46,6 +48,6 @@ This dictionary is being processed. Index of keywords does contain errors and mi
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-11-02
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-08-10
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
 
