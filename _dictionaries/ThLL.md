@@ -10,7 +10,7 @@ categories: [scientific]
 
 International project Thesaurus linguae Latinae aims to build a lexicon covering all surviving Latin texts from the earliest times down to AD 600. To the date, it contains words from A to R (with some missing intervals).
 
-This is an **online dictionary**, all articles will be downloaded from the Internet. Think of it as an alternative interface in addition to the [standard one][2], with such advantages as morphology search (Hunspell) and integration with GoldenDict.
+This is an **online dictionary**, content of the articles will be downloaded from the Internet. Think of it as an alternative interface in addition to the [standard one][2], with such advantages as morphology search (Hunspell) and integration with GoldenDict.
 
 
 ## Download
