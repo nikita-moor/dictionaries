@@ -29,14 +29,14 @@ Source files are [in the repository][3].
 
 # Sources
 
-1. Schrevel, Cornelis; Hill, Joseph; Entick,John; Bowyer, William; Watts, Robert; Tayler, Charles. _Cornelii Schrevelii Lexicon manuale græco-latinum et latino-græcum._ (22th ed.) London, 1831.
+1. Schrevel, Cornelis; Hill, Joseph; Entick,John; Bowyer, William; Watts, Robert; Tayler, Charles. _Cornelii Schrevelii Lexicon manuale græco-latinum et latino-græcum._ (22nd ed.) London, 1831. URL: <https://archive.org/details/corneliischreve00schr>.
 
 
 ## Usage guidelines
 
-Add file "index.html" to GoldenDict [following the guide][4] for HTML dictionaries.
+Add file `index.html` to GoldenDict [following the guide][4] for HTML dictionaries.
 
-Authors use medieval spelling for Latin words, so look for "pene", "foemina" instead of "paene", "femina"
+Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' look for 'pene', 'foemina'.
 
 
 ## License
