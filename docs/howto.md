@@ -15,8 +15,22 @@ GoldenDict is a computer shell which could read and organize dictionaries of dif
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
-**Note:** if you organized dicitonaries into groups (menu Edit > Dictionaries, tab Groups), new dictionary will not be added automaticly. So, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
+**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), new dictionary will not be added automaticly. So, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
 
 ## Updating dictionary
 
 If you are updating an old dictionary, simply replace it with files from new release. Then open menu Edit > Dictionaries and press button "Rescan now".
+
+
+# HTML dictionary
+
+These type of dictionaries is different:
+
+1. Follow steps 1-2 from above.
+1. In GoldenDict, open menu Edit > Dictionaries.
+1. Switch to the tab "Websites".
+1. Press button "Add…" and fill values of the new item:
+  - enabled: ☑ (on)
+  - as link: ☐ (off)
+  - name: on your choice (does not matter)
+  - address: `file://c:/Schrevel1831-grc-lat-html/index.html` (adapt it to the real path to the "index.html"; it should start with 'file://')

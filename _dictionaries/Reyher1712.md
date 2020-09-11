@@ -25,6 +25,7 @@ Source files are in the [github repository][3].
 Picture below shows the article after correction. Most of the articles are currently separated into independent paragraphs, German text is not highlighted, and Greek is absent.
 
 {% include img-viewer.html img="img/Reyher1712-1.png" id="1" %}
+{% include img-viewer.html img="img/Reyher1712-2.png" id="2" %}
 
 
 # Sources
