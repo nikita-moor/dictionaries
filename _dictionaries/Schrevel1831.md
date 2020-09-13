@@ -13,6 +13,8 @@ A dictionary of Ancient Greek, explained in Latin, and vice versa.
 
 ## Download
 
+**Warning:** doesn't work on Windows!
+
 Current version is [v1.0 (September 11, 2020)][1]. This format is only compatible with desktop GoldenDict.
 
 On-line version (ed. 1832) can be found on [Godmy's website](http://www.lexica.linguax.com/).
