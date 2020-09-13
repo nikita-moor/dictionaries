@@ -17,6 +17,8 @@ Current version is [v0.9 (August 30, 2020)][1]. Format Slob is recommended for G
 
 This dictionary is available on-line on the [Zeno.org](http://www.zeno.org/nid/2000191233X) website.
 
+Version with compact articles, just as in the printed book, was prepared by Thomas Vogt. Take it on [FireDict website][4] (StarDict format).
+
 
 ## Exemplum
 
@@ -47,4 +49,4 @@ Index of the headwords is not full and contains garbage lines, should be fixed i
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-08-30
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-
+[4]: https://tuxor1337.frama.io/firedict/dictionaries.html
