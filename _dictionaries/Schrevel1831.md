@@ -8,16 +8,16 @@ categories: [greek]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-A dictionary of Ancient Greek, explained in Latin, and vice versa. 
+A dictionary of Ancient Greek explained in Latin, and vice versa. 
+
+On-line version (ed. 1832) can be found on [Godmy's website](http://www.lexica.linguax.com/).
 
 
 ## Download
 
-Current version is [v1.1 (September 14, 2020)][1]. This format is compatible with desktop GoldenDict only.
+Current version is [v1.2 (September 18, 2020)][1]. This format is compatible with desktop GoldenDict only.
 
 Source files are [in the repository][3].
-
-On-line version (ed. 1832) can be found on [Godmy's website](http://www.lexica.linguax.com/).
 
 
 ## Exemplum
@@ -49,7 +49,7 @@ Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' l
 This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-09-14
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-09-19
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}

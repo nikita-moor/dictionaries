@@ -25,12 +25,12 @@ File in TEI format is available in [GitHub repository][3].
 ## Exemplum
 
 {% include img-viewer.html img="img/Georges1910-1.png" id="1" %}
+{% include img-viewer.html img="img/Georges1910-2.png" id="2" %}
 
 
 # Sources
 
 1. Georges, Karl Ernst. _Kleines deutsch-lateinisches Handwörterbuch._ (7th ed.). Hannover und Leipzig: Hahnsche Buchhandlung, 1910. (Reprinted in 1999). URL: <http://www.zeno.org/nid/2000191233X>.
-1. Crane, Gregory; Franzini, Greta. _Kleines deutsch-lateinisches Handwörterbuch._ University of Leipzig, 2014. URL: <https://github.com/OpenGreekAndLatin/misc-dev>.
 
 
 # States and limitations
