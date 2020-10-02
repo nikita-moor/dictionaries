@@ -18,7 +18,7 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 
 ## Download
 
-Work in progress release: [v0.13 (August 22, 2020)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+Work in progress release: [v0.14 (October 3, 2020)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 Source files see in [github repository][1].
 
@@ -34,11 +34,6 @@ Source files see in [github repository][1].
 1. Popma, Ausonius; Heckel, J. F.; Messerschmid, J. Ch.; Richter, A. D.; Vallauri, T. _De differentiis verborum (2nd ed.)._ Asceterii Salesiani Publisher, Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC> \[Accessed 28 April 2019\].
 
 
-## States and limitations
-
-This dictionary is being processed. Index of keywords does contain errors and missing lines, currently undergoes examination. About 40% of the text were transcribed, the remaining part is represented as images.
-
-
 ## License
 
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -48,6 +43,6 @@ This dictionary is being processed. Index of keywords does contain errors and mi
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-08-22
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-03
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
 
