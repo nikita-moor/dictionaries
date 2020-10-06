@@ -7,9 +7,9 @@ title: Documentation
 
 GoldenDict is a computer shell which could read and organize dictionaries of different formats.
 
-* Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows) and choose Qt 5.12.3-based release (or higher).
-* Linux: install the application from your software manager; choose Qt5-based version if there are different variant.
-* macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows), no special requirements.
+* Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
+* Linux: install the application from your software manager; choose Qt5-based version if there are variants.
+* macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 
 
 # Add dictionaries to GoldenDict
@@ -25,7 +25,7 @@ In order to use dictionaries from this website you should make few simple steps:
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
-**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), new dictionary will not be added automaticly. So, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
+**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), then the new dictionary will not be added automaticly. In such a case, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
 
 
 # HTML dictionaries
@@ -44,4 +44,4 @@ This type of dictionaries works similar to websites:
 
 ## Updating dictionary
 
-If you are updating an old dictionary, simply replace it with files from new release. Then open menu File > Rescan Files.
+If you are updating an old dictionary, simply replace it with files from new release. Then open menu File > Rescan Files. For HTML dictionaries it may require to restart GoldenDict (File > Quit, then start application).
