@@ -2,6 +2,9 @@
   url: /
 - title: Dictionaries
   url: /dictionaries.html
+  submenu:
+    - title: Online
+      url: /online.html
 - title: Docs
   url: /docs/docs.html
   submenu:

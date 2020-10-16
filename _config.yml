@@ -8,6 +8,8 @@ google_analytics: UA-140847555-1
 collections:
   dictionaries:
     output: true
+  online:
+    output: true
 
 defaults:
   - scope:
