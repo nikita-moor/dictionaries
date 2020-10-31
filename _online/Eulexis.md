@@ -22,8 +22,7 @@ Current version is [v1.0 (October 16, 2020)][2].
 
 ## States and limitations
 
-Comparing to [Alpheios][3], this dictionary is more compliant, it will suggest several forms differing only in tones or breathing marks, but may not be able to recognize some declensions or conjugations. Also, Greek words can be typed in transliteration:
-
+Comparing to [Alpheios][3], this dictionary is tolerant to incorrect or absent tones and breathing marks, but someitmes fails to recognize some declension or conjugation forms. Also, Greek words can be typed in transliteration:
 
 ```
 αβγδεζηθικλμνξοπρςστυφχψωϝϟ
@@ -31,16 +30,9 @@ abgdezhqiklmncoprsstufxywfk
 ```
 
 
-## How to setup
+## Usage guidelines
 
-1. Download the most recent version of the dictionary (file "Eulexis-html.zip") and extract archive.
-1. In GoldenDict, open menu Edit > Dictionaries.
-1. Switch to the tab Websites.
-1. Press button "Add…" and fill values of the new item:
-  - enabled: ☑ (on);
-  - as link: ☑ (on);
-  - name: on your choice (does not matter);
-  - address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (adapt it to the real path to "index.html"; it should start with 'file:///'; use "forward" slashs instead of backslash).
+Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
 
 
 ## License
@@ -54,3 +46,4 @@ abgdezhqiklmncoprsstufxywfk
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-16
 [3]: {{ site.baseurl }}{% link _online/Alpheios.md %}
+[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

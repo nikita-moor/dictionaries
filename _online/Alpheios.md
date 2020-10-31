@@ -25,17 +25,9 @@ Current version is [v1.0 (October 16, 2020)][2].
 In contrast to [Eulexis][3], this dictionary only accepts words written in correct Polytonic orthography with all necessary tones; letter case is significant. So, it will recognize "φιλ<span style="color: red">έ</span>ω" but not "φιλ<span style="color: red">ε</span>ω".
 
 
-## How to setup
+## Usage guidelines
 
-1. Download the most recent version of the dictionary (file "Alpheios-html.zip") and extract archive.
-1. In GoldenDict, open menu Edit > Dictionaries.
-1. Switch to the tab Websites.
-1. Press button "Add…" and fill values of the new item:
-  - enabled: ☑ (on);
-  - as link: ☑ (on);
-  - name: on your choice (does not matter);
-  - address: `file:///C:/Users/user/Documents/Alpheios-html/index.html` (adapt it to the real path to "index.html"; it should start with 'file:///'; use "forward" slashs instead of backslash).
-
+Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
 
 
 ## License
@@ -49,3 +41,4 @@ In contrast to [Eulexis][3], this dictionary only accepts words written in corre
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-16
 [3]: {{ site.baseurl }}{% link _online/Eulexis.md %}
+[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

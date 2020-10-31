@@ -15,7 +15,7 @@ On-line version (ed. 1832) can be found on [Godmy's website](http://www.lexica.l
 
 ## Download
 
-Current version is [v1.3 (October 6, 2020)][1]. This format is compatible with desktop GoldenDict only.
+Current version is [v1.4 (October 31, 2020)][1]. This format is only compatible with desktop GoldenDict.
 
 Source files are [in the repository][3].
 
@@ -34,7 +34,7 @@ Source files are [in the repository][3].
 
 ## Usage guidelines
 
-Add file `index.html` to GoldenDict [following the guide][4] for HTML dictionaries.
+Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
 
 Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' look for 'pene', 'foemina'.
 
@@ -49,7 +49,7 @@ Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' l
 This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-06
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-31
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[4]: {{ site.baseurl }}{% link docs/howto.md %}
+[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

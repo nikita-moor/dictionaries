@@ -17,7 +17,7 @@ Addendum ["Latinitatis Index Etymologicus"][3] is not included into our version.
 
 ## Download
 
-Current version is [v1.0 (February 20, 2020)][2]. Dictionary is encoded into Slob format and is designed to be used in desktop GoldenDict. It is not suitable for mobile use, so we do not provide mobile formats.
+Current version is [v1.1 (October 31, 2020)][2]. Dictionary is encoded into Slob format and is designed to be used in desktop GoldenDict. It is not suitable for mobile use, so we do not provide mobile formats.
 
 Source files see on the [CAMENA project's website][1].
 
@@ -59,7 +59,7 @@ See [CAMENA website][5] for additional information about the dictionary.
 
 
 [1]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-20
+[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-31
 [3]: http://www.archive.org/stream/novuslinguaeeter04gesn#page/n576/mode/1up
 [4]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html#04
 [5]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html

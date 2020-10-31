@@ -32,16 +32,17 @@ In order to use dictionaries from this website you should make few simple steps:
 
 This type of dictionaries works similar to websites:
 
-1. Follow steps 1-2 from above.
+1. Download the most recent version of the dictionary.
+1. Extract files from the archive.
 1. In GoldenDict, open menu Edit > Dictionaries.
-1. Switch to the tab "Websites".
-1. Press button "Add…" and fill values of the new item:
+1. Switch to the tab Websites.
+1. Press button "Add…" and fill new item:
   - enabled: ☑ (on);
-  - as link: ☐ (off);
+  - as link: ☑ (on);
   - name: on your choice (does not matter);
-  - address: `file:///c:/Schrevel1831-grc-lat-html/index.html` (adapt it to the real path to the "index.html"; it should start with 'file:///'; use "forward" slashs instead of backslash).
+  - address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (adapt it to the real path to "index.html"; it should start with 'file:///'; use "forward" slashs instead of backslash).
 
 
 ## Updating dictionary
 
-If you are updating an old dictionary, simply replace it with files from new release. Then open menu File > Rescan Files. For HTML dictionaries it may require to restart GoldenDict (File > Quit, then start application).
+If you are updating an old dictionary, simply replace it with files from new release. Then open menu File&nbsp;>&nbsp;Rescan Files.
