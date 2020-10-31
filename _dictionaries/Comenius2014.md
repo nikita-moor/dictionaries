@@ -62,7 +62,7 @@ abgdezhqiklmncoprsstufxywfk
 This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-14
+[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-31b
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
